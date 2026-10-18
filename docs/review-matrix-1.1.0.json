@@ -1,0 +1,4169 @@
+{
+  "bankVersion": "1.1.0",
+  "newQuestionCount": 160,
+  "newSourceCount": 88,
+  "checkedAt": "2026-10-17",
+  "note": "웹 도구 참조 ID는 이번 작업의 내부 추적용이며 영구 링크가 아니다. 영구 출처는 sourceUrl이다. 필드와 키워드 검사는 사실 검증 자체가 아니다.",
+  "rows": [
+    {
+      "questionId": "hist-011",
+      "sourceKey": "H1",
+      "sourceUrl": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_n206200",
+      "firstReadReference": "turn116view0",
+      "secondReadReference": "turn277view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 26、27、33 부근",
+      "verifiedFact": "고려를 건국한 인물은 왕건이다.",
+      "answer": "hist-011-b",
+      "distractorOptionIds": [
+        "hist-011-a",
+        "hist-011-c",
+        "hist-011-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-012",
+      "sourceKey": "H1",
+      "sourceUrl": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_n206200",
+      "firstReadReference": "turn116view0",
+      "secondReadReference": "turn277view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 41、56 부근",
+      "verifiedFact": "고려는 918년에 건국되었다.",
+      "answer": "hist-012-a",
+      "distractorOptionIds": [
+        "hist-012-b",
+        "hist-012-c",
+        "hist-012-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-013",
+      "sourceKey": "H1",
+      "sourceUrl": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_n206200",
+      "firstReadReference": "turn116view0",
+      "secondReadReference": "turn277view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 41、69、70 부근",
+      "verifiedFact": "고려는 936년에 후백제를 멸망시키고 후삼국을 통일했다.",
+      "answer": "hist-013-d",
+      "distractorOptionIds": [
+        "hist-013-a",
+        "hist-013-b",
+        "hist-013-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-014",
+      "sourceKey": "H1",
+      "sourceUrl": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_n206200",
+      "firstReadReference": "turn116view0",
+      "secondReadReference": "turn277view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 41、46、50 부근",
+      "verifiedFact": "후백제를 세운 인물은 견훤이다.",
+      "answer": "hist-014-c",
+      "distractorOptionIds": [
+        "hist-014-a",
+        "hist-014-b",
+        "hist-014-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-015",
+      "sourceKey": "H2",
+      "sourceUrl": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h51_0040_0020_0010",
+      "firstReadReference": "turn113view0",
+      "secondReadReference": "turn294view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 50、51、105 부근",
+      "verifiedFact": "소수림왕은 고구려에 태학을 설립했다.",
+      "answer": "hist-015-b",
+      "distractorOptionIds": [
+        "hist-015-a",
+        "hist-015-c",
+        "hist-015-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-016",
+      "sourceKey": "H2",
+      "sourceUrl": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h51_0040_0020_0010",
+      "firstReadReference": "turn113view0",
+      "secondReadReference": "turn294view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 61、64、66 부근",
+      "verifiedFact": "장수왕은 수도를 국내성에서 평양으로 옮겼다.",
+      "answer": "hist-016-a",
+      "distractorOptionIds": [
+        "hist-016-b",
+        "hist-016-c",
+        "hist-016-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-017",
+      "sourceKey": "H2",
+      "sourceUrl": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h51_0040_0020_0010",
+      "firstReadReference": "turn113view0",
+      "secondReadReference": "turn294view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 85 부근",
+      "verifiedFact": "성왕은 백제의 수도를 사비로 옮겼다.",
+      "answer": "hist-017-d",
+      "distractorOptionIds": [
+        "hist-017-a",
+        "hist-017-b",
+        "hist-017-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-018",
+      "sourceKey": "H2",
+      "sourceUrl": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h51_0040_0020_0010",
+      "firstReadReference": "turn113view0",
+      "secondReadReference": "turn294view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 90、92 부근",
+      "verifiedFact": "신라는 법흥왕 때 금관가야를 병합했다.",
+      "answer": "hist-018-c",
+      "distractorOptionIds": [
+        "hist-018-a",
+        "hist-018-b",
+        "hist-018-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-019",
+      "sourceKey": "H3",
+      "sourceUrl": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m61_0080_0010",
+      "firstReadReference": "turn118view0",
+      "secondReadReference": "turn297view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 492、494、496 부근",
+      "verifiedFact": "조선을 건국한 인물은 이성계이다.",
+      "answer": "hist-019-b",
+      "distractorOptionIds": [
+        "hist-019-a",
+        "hist-019-c",
+        "hist-019-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-020",
+      "sourceKey": "H3",
+      "sourceUrl": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m61_0080_0010",
+      "firstReadReference": "turn118view0",
+      "secondReadReference": "turn297view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 201、496 부근",
+      "verifiedFact": "조선은 1392년에 건국되었다.",
+      "answer": "hist-020-a",
+      "distractorOptionIds": [
+        "hist-020-b",
+        "hist-020-c",
+        "hist-020-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-021",
+      "sourceKey": "H3",
+      "sourceUrl": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m61_0080_0010",
+      "firstReadReference": "turn118view0",
+      "secondReadReference": "turn297view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 491、494 부근",
+      "verifiedFact": "이성계는 위화도에서 군대를 돌렸다.",
+      "answer": "hist-021-d",
+      "distractorOptionIds": [
+        "hist-021-a",
+        "hist-021-b",
+        "hist-021-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-022",
+      "sourceKey": "H3",
+      "sourceUrl": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m61_0080_0010",
+      "firstReadReference": "turn118view0",
+      "secondReadReference": "turn297view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 489 부근",
+      "verifiedFact": "성종 때 국가의 기본 법전인 경국대전이 완성되었다.",
+      "answer": "hist-022-c",
+      "distractorOptionIds": [
+        "hist-022-a",
+        "hist-022-b",
+        "hist-022-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-023",
+      "sourceKey": "H4",
+      "sourceUrl": "https://contents.history.go.kr/front/hm/print.do?levelId=hm_034_0020&tabId=01&treeId=010302&whereStr=",
+      "firstReadReference": "turn114view0",
+      "secondReadReference": "turn301view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 0、4、5 부근",
+      "verifiedFact": "장보고는 신라에서 청해진을 설치했다.",
+      "answer": "hist-023-b",
+      "distractorOptionIds": [
+        "hist-023-a",
+        "hist-023-c",
+        "hist-023-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-024",
+      "sourceKey": "H4",
+      "sourceUrl": "https://contents.history.go.kr/front/hm/print.do?levelId=hm_034_0020&tabId=01&treeId=010302&whereStr=",
+      "firstReadReference": "turn114view0",
+      "secondReadReference": "turn301view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 5、48、84 부근",
+      "verifiedFact": "청해진은 오늘날 완도에 설치되었다.",
+      "answer": "hist-024-a",
+      "distractorOptionIds": [
+        "hist-024-b",
+        "hist-024-c",
+        "hist-024-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-025",
+      "sourceKey": "H5",
+      "sourceUrl": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h62_0040_0030_0020",
+      "firstReadReference": "turn115view0",
+      "secondReadReference": "turn305view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 48、55、76 부근",
+      "verifiedFact": "1919년 대한민국 임시 정부는 상하이에서 수립되었다.",
+      "answer": "hist-025-d",
+      "distractorOptionIds": [
+        "hist-025-a",
+        "hist-025-b",
+        "hist-025-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-026",
+      "sourceKey": "H5",
+      "sourceUrl": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h62_0040_0030_0020",
+      "firstReadReference": "turn115view0",
+      "secondReadReference": "turn305view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 72、80 부근",
+      "verifiedFact": "김구는 한인 애국단을 조직했다.",
+      "answer": "hist-026-c",
+      "distractorOptionIds": [
+        "hist-026-a",
+        "hist-026-b",
+        "hist-026-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-027",
+      "sourceKey": "H5",
+      "sourceUrl": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h62_0040_0030_0020",
+      "firstReadReference": "turn115view0",
+      "secondReadReference": "turn305view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 84、88、90 부근",
+      "verifiedFact": "훙커우 공원에서 의거를 일으킨 인물은 윤봉길이다.",
+      "answer": "hist-027-b",
+      "distractorOptionIds": [
+        "hist-027-a",
+        "hist-027-c",
+        "hist-027-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-028",
+      "sourceKey": "H5",
+      "sourceUrl": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h62_0040_0030_0020",
+      "firstReadReference": "turn115view0",
+      "secondReadReference": "turn305view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 48、65 부근",
+      "verifiedFact": "대한민국 임시 정부는 민주 공화제를 채택했다.",
+      "answer": "hist-028-a",
+      "distractorOptionIds": [
+        "hist-028-b",
+        "hist-028-c",
+        "hist-028-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-029",
+      "sourceKey": "H6",
+      "sourceUrl": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_r400300",
+      "firstReadReference": "turn125view0",
+      "secondReadReference": "turn299view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 29、31、41 부근",
+      "verifiedFact": "대한제국의 첫 황제는 고종이다.",
+      "answer": "hist-029-d",
+      "distractorOptionIds": [
+        "hist-029-a",
+        "hist-029-b",
+        "hist-029-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-030",
+      "sourceKey": "H6",
+      "sourceUrl": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_r400300",
+      "firstReadReference": "turn125view0",
+      "secondReadReference": "turn299view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 31、41、43 부근",
+      "verifiedFact": "대한제국은 1897년에 선포되었다.",
+      "answer": "hist-030-c",
+      "distractorOptionIds": [
+        "hist-030-a",
+        "hist-030-b",
+        "hist-030-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-031",
+      "sourceKey": "H6",
+      "sourceUrl": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_r400300",
+      "firstReadReference": "turn125view0",
+      "secondReadReference": "turn299view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 50 부근",
+      "verifiedFact": "대한제국의 황제 즉위식은 환구단에서 거행되었다.",
+      "answer": "hist-031-b",
+      "distractorOptionIds": [
+        "hist-031-a",
+        "hist-031-c",
+        "hist-031-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-032",
+      "sourceKey": "H7",
+      "sourceUrl": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h52_0040_0010_0040",
+      "firstReadReference": "turn123view0",
+      "secondReadReference": "turn302view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 489 부근",
+      "verifiedFact": "갑신정변은 1884년에 일어났다.",
+      "answer": "hist-032-a",
+      "distractorOptionIds": [
+        "hist-032-b",
+        "hist-032-c",
+        "hist-032-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-033",
+      "sourceKey": "H7",
+      "sourceUrl": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h52_0040_0010_0040",
+      "firstReadReference": "turn123view0",
+      "secondReadReference": "turn302view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 483、483、489 부근",
+      "verifiedFact": "갑신정변은 우정국 개국 축하연을 계기로 시작되었다.",
+      "answer": "hist-033-d",
+      "distractorOptionIds": [
+        "hist-033-a",
+        "hist-033-b",
+        "hist-033-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-034",
+      "sourceKey": "H7",
+      "sourceUrl": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h52_0040_0010_0040",
+      "firstReadReference": "turn123view0",
+      "secondReadReference": "turn302view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 477、480、482 부근",
+      "verifiedFact": "김옥균은 갑신정변을 주도한 급진 개화파 인물이다.",
+      "answer": "hist-034-c",
+      "distractorOptionIds": [
+        "hist-034-a",
+        "hist-034-b",
+        "hist-034-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-035",
+      "sourceKey": "H7",
+      "sourceUrl": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h52_0040_0010_0040",
+      "firstReadReference": "turn123view0",
+      "secondReadReference": "turn302view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 483、483 부근",
+      "verifiedFact": "박문국은 한성순보를 간행했다.",
+      "answer": "hist-035-b",
+      "distractorOptionIds": [
+        "hist-035-a",
+        "hist-035-c",
+        "hist-035-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-036",
+      "sourceKey": "H8",
+      "sourceUrl": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_m61_0050_0030",
+      "firstReadReference": "turn122view0",
+      "secondReadReference": "turn295view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 43、62、132 부근",
+      "verifiedFact": "발해를 건국한 인물은 대조영이다.",
+      "answer": "hist-036-a",
+      "distractorOptionIds": [
+        "hist-036-b",
+        "hist-036-c",
+        "hist-036-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-037",
+      "sourceKey": "H8",
+      "sourceUrl": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_m61_0050_0030",
+      "firstReadReference": "turn122view0",
+      "secondReadReference": "turn295view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 62 부근",
+      "verifiedFact": "발해는 698년에 건국되었다.",
+      "answer": "hist-037-d",
+      "distractorOptionIds": [
+        "hist-037-a",
+        "hist-037-b",
+        "hist-037-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-038",
+      "sourceKey": "H8",
+      "sourceUrl": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_m61_0050_0030",
+      "firstReadReference": "turn122view0",
+      "secondReadReference": "turn295view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 69 부근",
+      "verifiedFact": "발해는 전성기에 해동성국으로 불렸다.",
+      "answer": "hist-038-c",
+      "distractorOptionIds": [
+        "hist-038-a",
+        "hist-038-b",
+        "hist-038-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-039",
+      "sourceKey": "H9",
+      "sourceUrl": "https://contents.history.go.kr/front/tg/list.do?ganada=&pageIndex=35&pageUnit=10&treeId=0200",
+      "firstReadReference": "turn124view0",
+      "secondReadReference": "turn310view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 84 부근",
+      "verifiedFact": "김부식 등이 고려에서 삼국사기를 편찬했다.",
+      "answer": "hist-039-b",
+      "distractorOptionIds": [
+        "hist-039-a",
+        "hist-039-c",
+        "hist-039-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-040",
+      "sourceKey": "H9",
+      "sourceUrl": "https://contents.history.go.kr/front/tg/list.do?ganada=&pageIndex=35&pageUnit=10&treeId=0200",
+      "firstReadReference": "turn124view0",
+      "secondReadReference": "turn310view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 85 부근",
+      "verifiedFact": "일연은 삼국유사의 편찬자로 알려져 있다.",
+      "answer": "hist-040-a",
+      "distractorOptionIds": [
+        "hist-040-b",
+        "hist-040-c",
+        "hist-040-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-041",
+      "sourceKey": "H10",
+      "sourceUrl": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i401500",
+      "firstReadReference": "turn126view0",
+      "secondReadReference": "turn282view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 31、44、53 부근",
+      "verifiedFact": "동학 농민 운동은 1894년에 본격적으로 일어났다.",
+      "answer": "hist-041-d",
+      "distractorOptionIds": [
+        "hist-041-a",
+        "hist-041-b",
+        "hist-041-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-042",
+      "sourceKey": "H10",
+      "sourceUrl": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i401500",
+      "firstReadReference": "turn126view0",
+      "secondReadReference": "turn282view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 47、49、53 부근",
+      "verifiedFact": "전봉준은 동학 농민 운동의 지도자로 활동했다.",
+      "answer": "hist-042-c",
+      "distractorOptionIds": [
+        "hist-042-a",
+        "hist-042-b",
+        "hist-042-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-043",
+      "sourceKey": "H11",
+      "sourceUrl": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_112_0010",
+      "firstReadReference": "turn127view0",
+      "secondReadReference": "turn272view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 148、150、155 부근",
+      "verifiedFact": "허준은 동의보감의 편찬을 이끌었다.",
+      "answer": "hist-043-b",
+      "distractorOptionIds": [
+        "hist-043-a",
+        "hist-043-c",
+        "hist-043-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-044",
+      "sourceKey": "H11",
+      "sourceUrl": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_112_0010",
+      "firstReadReference": "turn127view0",
+      "secondReadReference": "turn272view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 112、114、121 부근",
+      "verifiedFact": "동의보감은 의학을 다룬 책이다.",
+      "answer": "hist-044-a",
+      "distractorOptionIds": [
+        "hist-044-b",
+        "hist-044-c",
+        "hist-044-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-045",
+      "sourceKey": "H12",
+      "sourceUrl": "https://contents.history.go.kr/play/view.do?levelId=ts_b03",
+      "firstReadReference": "turn128view0",
+      "secondReadReference": "turn312view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 59、61、152 부근",
+      "verifiedFact": "난중일기를 쓴 인물은 이순신이다.",
+      "answer": "hist-045-d",
+      "distractorOptionIds": [
+        "hist-045-a",
+        "hist-045-b",
+        "hist-045-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-046",
+      "sourceKey": "H12",
+      "sourceUrl": "https://contents.history.go.kr/play/view.do?levelId=ts_b03",
+      "firstReadReference": "turn128view0",
+      "secondReadReference": "turn312view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 94、139、152 부근",
+      "verifiedFact": "난중일기는 임진왜란 당시의 기록이다.",
+      "answer": "hist-046-c",
+      "distractorOptionIds": [
+        "hist-046-a",
+        "hist-046-b",
+        "hist-046-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-047",
+      "sourceKey": "H13",
+      "sourceUrl": "https://contents.history.go.kr/mobile/eh/view.do?code=ganada&levelId=eh_n0860_0010",
+      "firstReadReference": "turn129view0",
+      "secondReadReference": "turn303view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 63 부근",
+      "verifiedFact": "3·1 운동은 1919년에 일어났다.",
+      "answer": "hist-047-b",
+      "distractorOptionIds": [
+        "hist-047-a",
+        "hist-047-c",
+        "hist-047-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-048",
+      "sourceKey": "H13",
+      "sourceUrl": "https://contents.history.go.kr/mobile/eh/view.do?code=ganada&levelId=eh_n0860_0010",
+      "firstReadReference": "turn129view0",
+      "secondReadReference": "turn303view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 26、27、30 부근",
+      "verifiedFact": "유관순은 아우내 장터 만세 운동에 참여했다.",
+      "answer": "hist-048-a",
+      "distractorOptionIds": [
+        "hist-048-b",
+        "hist-048-c",
+        "hist-048-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-049",
+      "sourceKey": "H14",
+      "sourceUrl": "https://www.unesco.org/en/memory-world/baegun-hwasang-chorok-buljo-jikji-simche-yojeol-volii-second-volume-anthology-great-buddhist-priests",
+      "firstReadReference": "turn132view0",
+      "secondReadReference": "turn307view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 47、48 부근",
+      "verifiedFact": "1377년 직지 하권은 금속 활자로 인쇄되었다.",
+      "answer": "hist-049-d",
+      "distractorOptionIds": [
+        "hist-049-a",
+        "hist-049-b",
+        "hist-049-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "hist-050",
+      "sourceKey": "H14",
+      "sourceUrl": "https://www.unesco.org/en/memory-world/baegun-hwasang-chorok-buljo-jikji-simche-yojeol-volii-second-volume-anthology-great-buddhist-priests",
+      "firstReadReference": "turn132view0",
+      "secondReadReference": "turn307view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 47 부근",
+      "verifiedFact": "1377년 직지 하권은 흥덕사에서 인쇄되었다.",
+      "answer": "hist-050-c",
+      "distractorOptionIds": [
+        "hist-050-a",
+        "hist-050-b",
+        "hist-050-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-011",
+      "sourceKey": "S1",
+      "sourceUrl": "https://www.bipm.org/en/measurement-units/si-base-units",
+      "firstReadReference": "turn135view0",
+      "secondReadReference": "turn293view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 10 부근",
+      "verifiedFact": "SI에서 길이의 기본 단위는 미터(m)이다.",
+      "answer": "sci-011-b",
+      "distractorOptionIds": [
+        "sci-011-a",
+        "sci-011-c",
+        "sci-011-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-012",
+      "sourceKey": "S1",
+      "sourceUrl": "https://www.bipm.org/en/measurement-units/si-base-units",
+      "firstReadReference": "turn135view0",
+      "secondReadReference": "turn293view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 11 부근",
+      "verifiedFact": "SI에서 질량의 기본 단위는 킬로그램(kg)이다.",
+      "answer": "sci-012-a",
+      "distractorOptionIds": [
+        "sci-012-b",
+        "sci-012-c",
+        "sci-012-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-013",
+      "sourceKey": "S1",
+      "sourceUrl": "https://www.bipm.org/en/measurement-units/si-base-units",
+      "firstReadReference": "turn135view0",
+      "secondReadReference": "turn293view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 9 부근",
+      "verifiedFact": "SI에서 시간의 기본 단위는 초(s)이다.",
+      "answer": "sci-013-d",
+      "distractorOptionIds": [
+        "sci-013-a",
+        "sci-013-b",
+        "sci-013-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-014",
+      "sourceKey": "S1",
+      "sourceUrl": "https://www.bipm.org/en/measurement-units/si-base-units",
+      "firstReadReference": "turn135view0",
+      "secondReadReference": "turn293view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 12 부근",
+      "verifiedFact": "SI에서 전류의 기본 단위는 암페어(A)이다.",
+      "answer": "sci-014-c",
+      "distractorOptionIds": [
+        "sci-014-a",
+        "sci-014-b",
+        "sci-014-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-015",
+      "sourceKey": "S1",
+      "sourceUrl": "https://www.bipm.org/en/measurement-units/si-base-units",
+      "firstReadReference": "turn135view0",
+      "secondReadReference": "turn293view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 13 부근",
+      "verifiedFact": "SI에서 열역학적 온도의 기본 단위는 켈빈(K)이다.",
+      "answer": "sci-015-b",
+      "distractorOptionIds": [
+        "sci-015-a",
+        "sci-015-c",
+        "sci-015-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-016",
+      "sourceKey": "S1",
+      "sourceUrl": "https://www.bipm.org/en/measurement-units/si-base-units",
+      "firstReadReference": "turn135view0",
+      "secondReadReference": "turn293view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 14 부근",
+      "verifiedFact": "SI에서 물질량의 기본 단위는 몰(mol)이다.",
+      "answer": "sci-016-a",
+      "distractorOptionIds": [
+        "sci-016-b",
+        "sci-016-c",
+        "sci-016-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-017",
+      "sourceKey": "S1",
+      "sourceUrl": "https://www.bipm.org/en/measurement-units/si-base-units",
+      "firstReadReference": "turn135view0",
+      "secondReadReference": "turn293view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 15 부근",
+      "verifiedFact": "SI에서 광도의 기본 단위는 칸델라(cd)이다.",
+      "answer": "sci-017-d",
+      "distractorOptionIds": [
+        "sci-017-a",
+        "sci-017-b",
+        "sci-017-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-018",
+      "sourceKey": "S2",
+      "sourceUrl": "https://science.nasa.gov/mercury/facts/",
+      "firstReadReference": "turn134view0",
+      "secondReadReference": "turn315view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 241 부근",
+      "verifiedFact": "태양에 가장 가까운 행성은 수성이다.",
+      "answer": "sci-018-c",
+      "distractorOptionIds": [
+        "sci-018-a",
+        "sci-018-b",
+        "sci-018-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-019",
+      "sourceKey": "S2",
+      "sourceUrl": "https://science.nasa.gov/mercury/facts/",
+      "firstReadReference": "turn134view0",
+      "secondReadReference": "turn315view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 241 부근",
+      "verifiedFact": "태양계의 여덟 행성 중 크기가 가장 작은 행성은 수성이다.",
+      "answer": "sci-019-b",
+      "distractorOptionIds": [
+        "sci-019-a",
+        "sci-019-c",
+        "sci-019-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-020",
+      "sourceKey": "S3",
+      "sourceUrl": "https://science.nasa.gov/venus/facts/",
+      "firstReadReference": "turn131view0",
+      "secondReadReference": "turn296view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 241、273、324 부근",
+      "verifiedFact": "금성은 두꺼운 대기의 온실 효과로 표면 온도가 매우 높은 행성이다.",
+      "answer": "sci-020-a",
+      "distractorOptionIds": [
+        "sci-020-b",
+        "sci-020-c",
+        "sci-020-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-021",
+      "sourceKey": "S3",
+      "sourceUrl": "https://science.nasa.gov/venus/facts/",
+      "firstReadReference": "turn131view0",
+      "secondReadReference": "turn296view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 335 부근",
+      "verifiedFact": "금성의 대기는 주로 이산화탄소로 이루어져 있다.",
+      "answer": "sci-021-d",
+      "distractorOptionIds": [
+        "sci-021-a",
+        "sci-021-b",
+        "sci-021-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-022",
+      "sourceKey": "S4",
+      "sourceUrl": "https://science.nasa.gov/saturn/facts/",
+      "firstReadReference": "turn137view0",
+      "secondReadReference": "turn300view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 299 부근",
+      "verifiedFact": "토성의 고리는 수많은 얼음과 암석 조각 등으로 이루어져 있다.",
+      "answer": "sci-022-c",
+      "distractorOptionIds": [
+        "sci-022-a",
+        "sci-022-b",
+        "sci-022-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-023",
+      "sourceKey": "S4",
+      "sourceUrl": "https://science.nasa.gov/saturn/facts/",
+      "firstReadReference": "turn137view0",
+      "secondReadReference": "turn300view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 309 부근",
+      "verifiedFact": "토성의 평균 밀도는 상온의 액체 물보다 낮다.",
+      "answer": "sci-023-b",
+      "distractorOptionIds": [
+        "sci-023-a",
+        "sci-023-c",
+        "sci-023-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-024",
+      "sourceKey": "S5",
+      "sourceUrl": "https://science.nasa.gov/uranus/facts/",
+      "firstReadReference": "turn133view0",
+      "secondReadReference": "turn311view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 241、272 부근",
+      "verifiedFact": "천왕성은 자전축이 크게 기울어 옆으로 누워 도는 것처럼 보인다.",
+      "answer": "sci-024-a",
+      "distractorOptionIds": [
+        "sci-024-b",
+        "sci-024-c",
+        "sci-024-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-025",
+      "sourceKey": "S5",
+      "sourceUrl": "https://science.nasa.gov/uranus/facts/",
+      "firstReadReference": "turn133view0",
+      "secondReadReference": "turn311view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 308 부근",
+      "verifiedFact": "천왕성 대기의 메테인은 붉은빛을 흡수해 청록색 외관에 기여한다.",
+      "answer": "sci-025-d",
+      "distractorOptionIds": [
+        "sci-025-a",
+        "sci-025-b",
+        "sci-025-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-026",
+      "sourceKey": "S6",
+      "sourceUrl": "https://science.nasa.gov/neptune/facts/",
+      "firstReadReference": "turn136view0",
+      "secondReadReference": "turn313view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 241 부근",
+      "verifiedFact": "태양계의 여덟 행성 중 태양에서 가장 멀리 공전하는 행성은 해왕성이다.",
+      "answer": "sci-026-c",
+      "distractorOptionIds": [
+        "sci-026-a",
+        "sci-026-b",
+        "sci-026-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-027",
+      "sourceKey": "S6",
+      "sourceUrl": "https://science.nasa.gov/neptune/facts/",
+      "firstReadReference": "turn136view0",
+      "secondReadReference": "turn313view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 288 부근",
+      "verifiedFact": "해왕성의 공전 주기는 지구의 시간으로 약 165년이다.",
+      "answer": "sci-027-b",
+      "distractorOptionIds": [
+        "sci-027-a",
+        "sci-027-c",
+        "sci-027-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-028",
+      "sourceKey": "S7",
+      "sourceUrl": "https://gchem.cm.utexas.edu/data/ptable.php",
+      "firstReadReference": "turn142view0",
+      "secondReadReference": "turn306view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 2 부근",
+      "verifiedFact": "수소의 원소 기호는 H이다.",
+      "answer": "sci-028-a",
+      "distractorOptionIds": [
+        "sci-028-b",
+        "sci-028-c",
+        "sci-028-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-029",
+      "sourceKey": "S7",
+      "sourceUrl": "https://gchem.cm.utexas.edu/data/ptable.php",
+      "firstReadReference": "turn142view0",
+      "secondReadReference": "turn306view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 2 부근",
+      "verifiedFact": "헬륨의 원소 기호는 He이다.",
+      "answer": "sci-029-d",
+      "distractorOptionIds": [
+        "sci-029-a",
+        "sci-029-b",
+        "sci-029-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-030",
+      "sourceKey": "S7",
+      "sourceUrl": "https://gchem.cm.utexas.edu/data/ptable.php",
+      "firstReadReference": "turn142view0",
+      "secondReadReference": "turn306view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 3 부근",
+      "verifiedFact": "탄소의 원소 기호는 C이다.",
+      "answer": "sci-030-c",
+      "distractorOptionIds": [
+        "sci-030-a",
+        "sci-030-b",
+        "sci-030-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-031",
+      "sourceKey": "S7",
+      "sourceUrl": "https://gchem.cm.utexas.edu/data/ptable.php",
+      "firstReadReference": "turn142view0",
+      "secondReadReference": "turn306view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 4 부근",
+      "verifiedFact": "나트륨의 원소 기호는 Na이다.",
+      "answer": "sci-031-b",
+      "distractorOptionIds": [
+        "sci-031-a",
+        "sci-031-c",
+        "sci-031-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-032",
+      "sourceKey": "S7",
+      "sourceUrl": "https://gchem.cm.utexas.edu/data/ptable.php",
+      "firstReadReference": "turn142view0",
+      "secondReadReference": "turn306view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 4 부근",
+      "verifiedFact": "규소의 원소 기호는 Si이다.",
+      "answer": "sci-032-a",
+      "distractorOptionIds": [
+        "sci-032-b",
+        "sci-032-c",
+        "sci-032-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-033",
+      "sourceKey": "S7",
+      "sourceUrl": "https://gchem.cm.utexas.edu/data/ptable.php",
+      "firstReadReference": "turn142view0",
+      "secondReadReference": "turn306view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 4 부근",
+      "verifiedFact": "염소의 원소 기호는 Cl이다.",
+      "answer": "sci-033-d",
+      "distractorOptionIds": [
+        "sci-033-a",
+        "sci-033-b",
+        "sci-033-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-034",
+      "sourceKey": "S7",
+      "sourceUrl": "https://gchem.cm.utexas.edu/data/ptable.php",
+      "firstReadReference": "turn142view0",
+      "secondReadReference": "turn306view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 5 부근",
+      "verifiedFact": "칼슘의 원소 기호는 Ca이다.",
+      "answer": "sci-034-c",
+      "distractorOptionIds": [
+        "sci-034-a",
+        "sci-034-b",
+        "sci-034-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-035",
+      "sourceKey": "S7",
+      "sourceUrl": "https://gchem.cm.utexas.edu/data/ptable.php",
+      "firstReadReference": "turn142view0",
+      "secondReadReference": "turn306view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 5 부근",
+      "verifiedFact": "철의 원소 기호는 Fe이다.",
+      "answer": "sci-035-b",
+      "distractorOptionIds": [
+        "sci-035-a",
+        "sci-035-c",
+        "sci-035-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-036",
+      "sourceKey": "S7",
+      "sourceUrl": "https://gchem.cm.utexas.edu/data/ptable.php",
+      "firstReadReference": "turn142view0",
+      "secondReadReference": "turn306view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 5 부근",
+      "verifiedFact": "구리의 원소 기호는 Cu이다.",
+      "answer": "sci-036-a",
+      "distractorOptionIds": [
+        "sci-036-b",
+        "sci-036-c",
+        "sci-036-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-037",
+      "sourceKey": "S7",
+      "sourceUrl": "https://gchem.cm.utexas.edu/data/ptable.php",
+      "firstReadReference": "turn142view0",
+      "secondReadReference": "turn306view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 6 부근",
+      "verifiedFact": "은의 원소 기호는 Ag이다.",
+      "answer": "sci-037-d",
+      "distractorOptionIds": [
+        "sci-037-a",
+        "sci-037-b",
+        "sci-037-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-038",
+      "sourceKey": "S8",
+      "sourceUrl": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+      "firstReadReference": "turn139view0",
+      "secondReadReference": "turn314view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 468 부근",
+      "verifiedFact": "음식물을 씹을 때 입에서 소화 과정이 시작된다.",
+      "answer": "sci-038-c",
+      "distractorOptionIds": [
+        "sci-038-a",
+        "sci-038-b",
+        "sci-038-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-039",
+      "sourceKey": "S8",
+      "sourceUrl": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+      "firstReadReference": "turn139view0",
+      "secondReadReference": "turn314view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 470 부근",
+      "verifiedFact": "식도는 삼킨 음식물을 위로 보낸다.",
+      "answer": "sci-039-b",
+      "distractorOptionIds": [
+        "sci-039-a",
+        "sci-039-c",
+        "sci-039-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-040",
+      "sourceKey": "S8",
+      "sourceUrl": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+      "firstReadReference": "turn139view0",
+      "secondReadReference": "turn314view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 471 부근",
+      "verifiedFact": "위의 점막에 있는 샘은 위산을 만든다.",
+      "answer": "sci-040-a",
+      "distractorOptionIds": [
+        "sci-040-b",
+        "sci-040-c",
+        "sci-040-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-041",
+      "sourceKey": "S8",
+      "sourceUrl": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+      "firstReadReference": "turn139view0",
+      "secondReadReference": "turn314view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 481 부근",
+      "verifiedFact": "작은창자는 음식에 들어 있는 영양소의 대부분을 흡수한다.",
+      "answer": "sci-041-d",
+      "distractorOptionIds": [
+        "sci-041-a",
+        "sci-041-b",
+        "sci-041-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-042",
+      "sourceKey": "S8",
+      "sourceUrl": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+      "firstReadReference": "turn139view0",
+      "secondReadReference": "turn314view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 474 부근",
+      "verifiedFact": "간은 담즙을 만든다.",
+      "answer": "sci-042-c",
+      "distractorOptionIds": [
+        "sci-042-a",
+        "sci-042-b",
+        "sci-042-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-043",
+      "sourceKey": "S8",
+      "sourceUrl": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+      "firstReadReference": "turn139view0",
+      "secondReadReference": "turn314view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 476 부근",
+      "verifiedFact": "담낭은 식사 사이에 담즙을 저장한다.",
+      "answer": "sci-043-b",
+      "distractorOptionIds": [
+        "sci-043-a",
+        "sci-043-c",
+        "sci-043-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-044",
+      "sourceKey": "S9",
+      "sourceUrl": "https://www.nhlbi.nih.gov/health/blood-tests",
+      "firstReadReference": "turn145view0",
+      "secondReadReference": "turn308view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 92 부근",
+      "verifiedFact": "적혈구 안의 헤모글로빈이 산소를 운반한다.",
+      "answer": "sci-044-a",
+      "distractorOptionIds": [
+        "sci-044-b",
+        "sci-044-c",
+        "sci-044-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-045",
+      "sourceKey": "S9",
+      "sourceUrl": "https://www.nhlbi.nih.gov/health/blood-tests",
+      "firstReadReference": "turn145view0",
+      "secondReadReference": "turn308view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 91 부근",
+      "verifiedFact": "혈소판은 서로 달라붙어 손상된 혈관을 막는 등 혈액 응고를 돕는다.",
+      "answer": "sci-045-d",
+      "distractorOptionIds": [
+        "sci-045-a",
+        "sci-045-b",
+        "sci-045-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-046",
+      "sourceKey": "S10",
+      "sourceUrl": "https://www.nhlbi.nih.gov/health/heart",
+      "firstReadReference": "turn141view0",
+      "secondReadReference": "turn304view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 93 부근",
+      "verifiedFact": "심장은 혈액을 온몸으로 펌프질한다.",
+      "answer": "sci-046-c",
+      "distractorOptionIds": [
+        "sci-046-a",
+        "sci-046-b",
+        "sci-046-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-047",
+      "sourceKey": "S11",
+      "sourceUrl": "https://www.nhlbi.nih.gov/health/lungs",
+      "firstReadReference": "turn140view0",
+      "secondReadReference": "turn309view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 96、97 부근",
+      "verifiedFact": "폐에서는 공기의 산소가 혈액으로 들어가고 혈액의 이산화탄소가 공기로 나오는 기체 교환이 이루어진다.",
+      "answer": "sci-047-b",
+      "distractorOptionIds": [
+        "sci-047-a",
+        "sci-047-c",
+        "sci-047-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-048",
+      "sourceKey": "S12",
+      "sourceUrl": "https://science.nasa.gov/moon/eclipses/",
+      "firstReadReference": "turn143view0",
+      "secondReadReference": "turn316view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 340 부근",
+      "verifiedFact": "일식 때에는 달이 지구와 태양 사이에서 태양을 가린다.",
+      "answer": "sci-048-a",
+      "distractorOptionIds": [
+        "sci-048-b",
+        "sci-048-c",
+        "sci-048-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-049",
+      "sourceKey": "S12",
+      "sourceUrl": "https://science.nasa.gov/moon/eclipses/",
+      "firstReadReference": "turn143view0",
+      "secondReadReference": "turn316view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 302 부근",
+      "verifiedFact": "월식은 지구의 그림자가 달 표면에 드리워질 때 일어난다.",
+      "answer": "sci-049-d",
+      "distractorOptionIds": [
+        "sci-049-a",
+        "sci-049-b",
+        "sci-049-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "sci-050",
+      "sourceKey": "S13",
+      "sourceUrl": "https://science.nasa.gov/moon/moon-phases/",
+      "firstReadReference": "turn144view0",
+      "secondReadReference": "turn298view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 295、297 부근",
+      "verifiedFact": "달빛은 달이 태양빛을 반사한 빛이다.",
+      "answer": "sci-050-c",
+      "distractorOptionIds": [
+        "sci-050-a",
+        "sci-050-b",
+        "sci-050-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-011",
+      "sourceKey": "G1",
+      "sourceUrl": "https://whc.unesco.org/en/list/438/",
+      "firstReadReference": "turn150view0",
+      "secondReadReference": "turn251view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 49、53、55 부근",
+      "verifiedFact": "만리장성은 중국에 있다.",
+      "answer": "geo-011-b",
+      "distractorOptionIds": [
+        "geo-011-a",
+        "geo-011-c",
+        "geo-011-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-012",
+      "sourceKey": "G2",
+      "sourceUrl": "https://whc.unesco.org/en/list/326/",
+      "firstReadReference": "turn153view0",
+      "secondReadReference": "turn250view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 73、107 부근",
+      "verifiedFact": "페트라는 요르단에 있다.",
+      "answer": "geo-012-a",
+      "distractorOptionIds": [
+        "geo-012-b",
+        "geo-012-c",
+        "geo-012-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-013",
+      "sourceKey": "G3",
+      "sourceUrl": "https://whc.unesco.org/en/list/668/",
+      "firstReadReference": "turn152view0",
+      "secondReadReference": "turn281view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 45、68、95 부근",
+      "verifiedFact": "앙코르는 캄보디아에 있다.",
+      "answer": "geo-013-d",
+      "distractorOptionIds": [
+        "geo-013-a",
+        "geo-013-b",
+        "geo-013-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-014",
+      "sourceKey": "G4",
+      "sourceUrl": "https://whc.unesco.org/en/list/592/",
+      "firstReadReference": "turn148view0",
+      "secondReadReference": "turn278view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 4、46、75 부근",
+      "verifiedFact": "보로부두르 사원은 자바섬 중부에 있다.",
+      "answer": "geo-014-c",
+      "distractorOptionIds": [
+        "geo-014-a",
+        "geo-014-b",
+        "geo-014-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-015",
+      "sourceKey": "G5",
+      "sourceUrl": "https://whc.unesco.org/en/list/404/",
+      "firstReadReference": "turn151view0",
+      "secondReadReference": "turn289view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 4、49、64 부근",
+      "verifiedFact": "파르테논 신전은 아테네의 아크로폴리스에 있다.",
+      "answer": "geo-015-b",
+      "distractorOptionIds": [
+        "geo-015-a",
+        "geo-015-c",
+        "geo-015-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-016",
+      "sourceKey": "G6",
+      "sourceUrl": "https://whc.unesco.org/en/list/86/",
+      "firstReadReference": "turn156view0",
+      "secondReadReference": "turn270view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 5、44、52 부근",
+      "verifiedFact": "기자의 피라미드 유적은 이집트에 있다.",
+      "answer": "geo-016-a",
+      "distractorOptionIds": [
+        "geo-016-b",
+        "geo-016-c",
+        "geo-016-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-017",
+      "sourceKey": "G7",
+      "sourceUrl": "https://whc.unesco.org/en/list/83/",
+      "firstReadReference": "turn149view0",
+      "secondReadReference": "turn288view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 34、52、54 부근",
+      "verifiedFact": "베르사유 궁전과 정원은 프랑스에 있다.",
+      "answer": "geo-017-d",
+      "distractorOptionIds": [
+        "geo-017-a",
+        "geo-017-b",
+        "geo-017-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-018",
+      "sourceKey": "G8",
+      "sourceUrl": "https://whc.unesco.org/en/list/314/",
+      "firstReadReference": "turn147view0",
+      "secondReadReference": "turn274view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 2、3、4 부근",
+      "verifiedFact": "알람브라 궁전은 그라나다에 있다.",
+      "answer": "geo-018-c",
+      "distractorOptionIds": [
+        "geo-018-a",
+        "geo-018-b",
+        "geo-018-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-019",
+      "sourceKey": "G9",
+      "sourceUrl": "https://whc.unesco.org/en/list/715/",
+      "firstReadReference": "turn155view0",
+      "secondReadReference": "turn280view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 44、45、69 부근",
+      "verifiedFact": "라파누이 국립공원은 칠레에 속한다.",
+      "answer": "geo-019-b",
+      "distractorOptionIds": [
+        "geo-019-a",
+        "geo-019-c",
+        "geo-019-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-020",
+      "sourceKey": "G10",
+      "sourceUrl": "https://whc.unesco.org/en/list/28/",
+      "firstReadReference": "turn154view0",
+      "secondReadReference": "turn267view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 4、7、46 부근",
+      "verifiedFact": "옐로스톤은 간헐천으로 잘 알려져 있다.",
+      "answer": "geo-020-a",
+      "distractorOptionIds": [
+        "geo-020-b",
+        "geo-020-c",
+        "geo-020-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-021",
+      "sourceKey": "G11",
+      "sourceUrl": "https://whc.unesco.org/en/list/308/",
+      "firstReadReference": "turn158view0",
+      "secondReadReference": "turn255view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 51 부근",
+      "verifiedFact": "요세미티의 화강암 지형은 빙하의 침식으로 형성되었다.",
+      "answer": "geo-021-d",
+      "distractorOptionIds": [
+        "geo-021-a",
+        "geo-021-b",
+        "geo-021-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-022",
+      "sourceKey": "G12",
+      "sourceUrl": "https://whc.unesco.org/en/list/403/",
+      "firstReadReference": "turn163view0",
+      "secondReadReference": "turn252view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 6、34、53 부근",
+      "verifiedFact": "킬리만자로산은 아프리카에 있다.",
+      "answer": "geo-022-c",
+      "distractorOptionIds": [
+        "geo-022-a",
+        "geo-022-b",
+        "geo-022-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-023",
+      "sourceKey": "G13",
+      "sourceUrl": "https://whc.unesco.org/en/list/509/",
+      "firstReadReference": "turn161view0",
+      "secondReadReference": "turn253view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 6、59、64 부근",
+      "verifiedFact": "빅토리아 폭포는 잠베지강에 있다.",
+      "answer": "geo-023-b",
+      "distractorOptionIds": [
+        "geo-023-a",
+        "geo-023-c",
+        "geo-023-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-024",
+      "sourceKey": "G14",
+      "sourceUrl": "https://whc.unesco.org/en/list/672/",
+      "firstReadReference": "turn162view0",
+      "secondReadReference": "turn258view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 4、36、38 부근",
+      "verifiedFact": "하롱베이에는 석회암 섬과 탑 모양의 카르스트 지형이 발달해 있다.",
+      "answer": "geo-024-a",
+      "distractorOptionIds": [
+        "geo-024-b",
+        "geo-024-c",
+        "geo-024-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-025",
+      "sourceKey": "G15",
+      "sourceUrl": "https://whc.unesco.org/en/list/609/",
+      "firstReadReference": "turn165view0",
+      "secondReadReference": "turn248view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 44、47、48 부근",
+      "verifiedFact": "코모도 국립공원은 인도네시아에 있다.",
+      "answer": "geo-025-d",
+      "distractorOptionIds": [
+        "geo-025-a",
+        "geo-025-b",
+        "geo-025-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-026",
+      "sourceKey": "G16",
+      "sourceUrl": "https://whc.unesco.org/en/list/98/",
+      "firstReadReference": "turn159view0",
+      "secondReadReference": "turn256view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 50、67、99 부근",
+      "verifiedFact": "플리트비체 호수 국립공원은 크로아티아에 있다.",
+      "answer": "geo-026-c",
+      "distractorOptionIds": [
+        "geo-026-a",
+        "geo-026-b",
+        "geo-026-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-027",
+      "sourceKey": "G17",
+      "sourceUrl": "https://whc.unesco.org/en/list/303/",
+      "firstReadReference": "turn164view0",
+      "secondReadReference": "turn265view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 4、44 부근",
+      "verifiedFact": "이과수 폭포는 아르헨티나와 브라질의 국경에 걸쳐 있다.",
+      "answer": "geo-027-b",
+      "distractorOptionIds": [
+        "geo-027-a",
+        "geo-027-c",
+        "geo-027-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-028",
+      "sourceKey": "G18",
+      "sourceUrl": "https://whc.unesco.org/en/list/369/",
+      "firstReadReference": "turn166view0",
+      "secondReadReference": "turn249view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 4 부근",
+      "verifiedFact": "자이언츠 코즈웨이의 돌기둥은 현무암으로 이루어져 있다.",
+      "answer": "geo-028-a",
+      "distractorOptionIds": [
+        "geo-028-b",
+        "geo-028-c",
+        "geo-028-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-029",
+      "sourceKey": "G19",
+      "sourceUrl": "https://whc.unesco.org/en/list/357/",
+      "firstReadReference": "turn160view0",
+      "secondReadReference": "turn264view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 108 부근",
+      "verifiedFact": "괴레메와 카파도키아 암석 유적은 튀르키예에 있다.",
+      "answer": "geo-029-d",
+      "distractorOptionIds": [
+        "geo-029-a",
+        "geo-029-b",
+        "geo-029-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-030",
+      "sourceKey": "G20",
+      "sourceUrl": "https://whc.unesco.org/en/list/754/",
+      "firstReadReference": "turn173view0",
+      "secondReadReference": "turn247view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 5 부근",
+      "verifiedFact": "바이칼호는 시베리아 남동부에 있다.",
+      "answer": "geo-030-c",
+      "distractorOptionIds": [
+        "geo-030-a",
+        "geo-030-b",
+        "geo-030-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-031",
+      "sourceKey": "G21",
+      "sourceUrl": "https://whc.unesco.org/en/list/1432/",
+      "firstReadReference": "turn174view0",
+      "secondReadReference": "turn259view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 4 부근",
+      "verifiedFact": "오카방고는 바다로 흘러가지 않는 내륙 삼각주이다.",
+      "answer": "geo-031-b",
+      "distractorOptionIds": [
+        "geo-031-a",
+        "geo-031-c",
+        "geo-031-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-032",
+      "sourceKey": "G22",
+      "sourceUrl": "https://whc.unesco.org/en/list/1430/",
+      "firstReadReference": "turn171view0",
+      "secondReadReference": "turn266view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 5 부근",
+      "verifiedFact": "나미브 모래 바다에서는 안개가 중요한 수분 공급원이다.",
+      "answer": "geo-032-a",
+      "distractorOptionIds": [
+        "geo-032-b",
+        "geo-032-c",
+        "geo-032-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-033",
+      "sourceKey": "G23",
+      "sourceUrl": "https://whc.unesco.org/en/list/798/",
+      "firstReadReference": "turn168view0",
+      "secondReadReference": "turn263view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 4、47、51 부근",
+      "verifiedFact": "순다르반스에는 조수의 영향을 받는 맹그로브 숲이 발달해 있다.",
+      "answer": "geo-033-d",
+      "distractorOptionIds": [
+        "geo-033-a",
+        "geo-033-b",
+        "geo-033-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-034",
+      "sourceKey": "G24",
+      "sourceUrl": "https://whc.unesco.org/en/list/951/",
+      "firstReadReference": "turn169view0",
+      "secondReadReference": "turn246view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 4、33、36 부근",
+      "verifiedFact": "이 지역은 석회암 카르스트 지형으로 알려져 있다.",
+      "answer": "geo-034-c",
+      "distractorOptionIds": [
+        "geo-034-a",
+        "geo-034-b",
+        "geo-034-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-035",
+      "sourceKey": "G25",
+      "sourceUrl": "https://whc.unesco.org/en/list/1264/",
+      "firstReadReference": "turn175view0",
+      "secondReadReference": "turn261view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 4、47、48 부근",
+      "verifiedFact": "거문오름 동굴계는 용암 동굴계이다.",
+      "answer": "geo-035-b",
+      "distractorOptionIds": [
+        "geo-035-a",
+        "geo-035-c",
+        "geo-035-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-036",
+      "sourceKey": "G26",
+      "sourceUrl": "https://whc.unesco.org/en/list/185/",
+      "firstReadReference": "turn172view0",
+      "secondReadReference": "turn262view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 5 부근",
+      "verifiedFact": "알다브라 환초는 산호섬들이 석호를 둘러싼 형태이다.",
+      "answer": "geo-036-a",
+      "distractorOptionIds": [
+        "geo-036-b",
+        "geo-036-c",
+        "geo-036-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-037",
+      "sourceKey": "G27",
+      "sourceUrl": "https://whc.unesco.org/en/list/1263/",
+      "firstReadReference": "turn170view0",
+      "secondReadReference": "turn269view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 4 부근",
+      "verifiedFact": "소코트라 제도는 인도양 북서부에 있다.",
+      "answer": "geo-037-d",
+      "distractorOptionIds": [
+        "geo-037-a",
+        "geo-037-b",
+        "geo-037-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-038",
+      "sourceKey": "G28",
+      "sourceUrl": "https://whc.unesco.org/en/list/551/",
+      "firstReadReference": "turn167view0",
+      "secondReadReference": "turn275view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 5 부근",
+      "verifiedFact": "테 와히포우나무의 지형은 여러 차례의 빙하 작용으로 형성되었다.",
+      "answer": "geo-038-c",
+      "distractorOptionIds": [
+        "geo-038-a",
+        "geo-038-b",
+        "geo-038-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-039",
+      "sourceKey": "G29",
+      "sourceUrl": "https://whc.unesco.org/en/list/145/",
+      "firstReadReference": "turn176view0",
+      "secondReadReference": "turn284view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 5、10、49 부근",
+      "verifiedFact": "로스글라시아레스에서는 빙하에서 떨어진 얼음덩어리가 호수에 떠다닌다.",
+      "answer": "geo-039-b",
+      "distractorOptionIds": [
+        "geo-039-a",
+        "geo-039-c",
+        "geo-039-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-040",
+      "sourceKey": "G30",
+      "sourceUrl": "https://whc.unesco.org/en/list/400/",
+      "firstReadReference": "turn180view0",
+      "secondReadReference": "turn291view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 2、3、8 부근",
+      "verifiedFact": "다뉴브강은 부다페스트를 흐른다.",
+      "answer": "geo-040-a",
+      "distractorOptionIds": [
+        "geo-040-b",
+        "geo-040-c",
+        "geo-040-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-041",
+      "sourceKey": "G31",
+      "sourceUrl": "https://whc.unesco.org/en/list/616/",
+      "firstReadReference": "turn184view0",
+      "secondReadReference": "turn290view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 127、162 부근",
+      "verifiedFact": "프라하 역사 지구는 체코에 있다.",
+      "answer": "geo-041-d",
+      "distractorOptionIds": [
+        "geo-041-a",
+        "geo-041-b",
+        "geo-041-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-042",
+      "sourceKey": "G32",
+      "sourceUrl": "https://whc.unesco.org/en/list/2/",
+      "firstReadReference": "turn187view0",
+      "secondReadReference": "turn276view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 4 부근",
+      "verifiedFact": "키토는 에콰도르의 수도이다.",
+      "answer": "geo-042-c",
+      "distractorOptionIds": [
+        "geo-042-a",
+        "geo-042-b",
+        "geo-042-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-043",
+      "sourceKey": "G33",
+      "sourceUrl": "https://whc.unesco.org/en/list/204/",
+      "firstReadReference": "turn179view0",
+      "secondReadReference": "turn286view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 38、46、65 부근",
+      "verifiedFact": "아바나 구시가지는 쿠바에 있다.",
+      "answer": "geo-043-b",
+      "distractorOptionIds": [
+        "geo-043-a",
+        "geo-043-c",
+        "geo-043-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-044",
+      "sourceKey": "G34",
+      "sourceUrl": "https://whc.unesco.org/en/list/331/",
+      "firstReadReference": "turn177view0",
+      "secondReadReference": "turn285view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 75、82 부근",
+      "verifiedFact": "마라케시의 메디나는 모로코에 있다.",
+      "answer": "geo-044-a",
+      "distractorOptionIds": [
+        "geo-044-b",
+        "geo-044-c",
+        "geo-044-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-045",
+      "sourceKey": "G35",
+      "sourceUrl": "https://whc.unesco.org/en/list/119/",
+      "firstReadReference": "turn181view0",
+      "secondReadReference": "turn283view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 81、89、112 부근",
+      "verifiedFact": "팀북투는 말리에 있다.",
+      "answer": "geo-045-d",
+      "distractorOptionIds": [
+        "geo-045-a",
+        "geo-045-b",
+        "geo-045-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-046",
+      "sourceKey": "G36",
+      "sourceUrl": "https://whc.unesco.org/en/list/603/",
+      "firstReadReference": "turn182view0",
+      "secondReadReference": "turn279view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 48、72、74 부근",
+      "verifiedFact": "사마르칸트는 우즈베키스탄에 있다.",
+      "answer": "geo-046-c",
+      "distractorOptionIds": [
+        "geo-046-a",
+        "geo-046-b",
+        "geo-046-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-047",
+      "sourceKey": "G37",
+      "sourceUrl": "https://whc.unesco.org/en/list/121/",
+      "firstReadReference": "turn178view0",
+      "secondReadReference": "turn273view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 41、49、51 부근",
+      "verifiedFact": "카트만두 계곡은 네팔에 있다.",
+      "answer": "geo-047-b",
+      "distractorOptionIds": [
+        "geo-047-a",
+        "geo-047-c",
+        "geo-047-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-048",
+      "sourceKey": "G38",
+      "sourceUrl": "https://whc.unesco.org/en/list/1483/",
+      "firstReadReference": "turn185view0",
+      "secondReadReference": "turn287view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 5 부근",
+      "verifiedFact": "싱가포르 식물원은 고무 재배 연구와 관련된 중요한 기관이었다.",
+      "answer": "geo-048-a",
+      "distractorOptionIds": [
+        "geo-048-b",
+        "geo-048-c",
+        "geo-048-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-049",
+      "sourceKey": "G39",
+      "sourceUrl": "https://whc.unesco.org/en/list/1033/",
+      "firstReadReference": "turn183view0",
+      "secondReadReference": "turn271view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 45、48、61 부근",
+      "verifiedFact": "빈 역사 지구는 오스트리아에 있다.",
+      "answer": "geo-049-d",
+      "distractorOptionIds": [
+        "geo-049-a",
+        "geo-049-b",
+        "geo-049-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "geo-050",
+      "sourceKey": "G40",
+      "sourceUrl": "https://whc.unesco.org/en/list/95/",
+      "firstReadReference": "turn186view0",
+      "secondReadReference": "turn292view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 5 부근",
+      "verifiedFact": "두브로브니크는 아드리아해 연안에 있다.",
+      "answer": "geo-050-c",
+      "distractorOptionIds": [
+        "geo-050-a",
+        "geo-050-b",
+        "geo-050-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-011",
+      "sourceKey": "A1",
+      "sourceUrl": "https://www.mauritshuis.nl/en/our-collection/artworks/670-girl-with-a-pearl-earring",
+      "firstReadReference": "turn203view0",
+      "secondReadReference": "turn236view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 42、45、47 부근",
+      "verifiedFact": "「진주 귀걸이를 한 소녀」는 요하네스 페르메이르의 작품이다.",
+      "answer": "art-011-b",
+      "distractorOptionIds": [
+        "art-011-a",
+        "art-011-c",
+        "art-011-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-012",
+      "sourceKey": "A4",
+      "sourceUrl": "https://www.nationalgallery.org.uk/paintings/sandro-botticelli-venus-and-mars/",
+      "firstReadReference": "turn194view0",
+      "secondReadReference": "turn230view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 125、145、213 부근",
+      "verifiedFact": "「비너스와 마르스」는 산드로 보티첼리의 작품이다.",
+      "answer": "art-012-a",
+      "distractorOptionIds": [
+        "art-012-b",
+        "art-012-c",
+        "art-012-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-013",
+      "sourceKey": "A5",
+      "sourceUrl": "https://www.museoreinasofia.es/en/collections/artwork/guernica-0/",
+      "firstReadReference": "turn199view0",
+      "secondReadReference": "turn243view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 21、43、44 부근",
+      "verifiedFact": "「게르니카」는 파블로 피카소의 작품이다.",
+      "answer": "art-013-d",
+      "distractorOptionIds": [
+        "art-013-a",
+        "art-013-b",
+        "art-013-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-014",
+      "sourceKey": "A6",
+      "sourceUrl": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-the-fighting-temeraire",
+      "firstReadReference": "turn192view0",
+      "secondReadReference": "turn242view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 95、103、104 부근",
+      "verifiedFact": "「전함 테메레르」는 윌리엄 터너의 작품이다.",
+      "answer": "art-014-c",
+      "distractorOptionIds": [
+        "art-014-a",
+        "art-014-b",
+        "art-014-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-015",
+      "sourceKey": "AP1",
+      "sourceUrl": "https://www.nationalgallery.org.uk/paintings/claude-monet-the-water-lily-pond",
+      "firstReadReference": "turn219view0",
+      "secondReadReference": "turn234view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 125、127、145 부근",
+      "verifiedFact": "「수련 연못(The Water-Lily Pond)」는 클로드 모네의 작품이다.",
+      "answer": "art-015-b",
+      "distractorOptionIds": [
+        "art-015-a",
+        "art-015-c",
+        "art-015-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-016",
+      "sourceKey": "AP2",
+      "sourceUrl": "https://www.nationalgallery.org.uk/paintings/jan-van-eyck-the-arnolfini-portrait",
+      "firstReadReference": "turn213view0",
+      "secondReadReference": "turn231view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 104、106、113 부근",
+      "verifiedFact": "「아르놀피니 부부의 초상」는 얀 반 에이크의 작품이다.",
+      "answer": "art-016-a",
+      "distractorOptionIds": [
+        "art-016-b",
+        "art-016-c",
+        "art-016-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-017",
+      "sourceKey": "AP3",
+      "sourceUrl": "https://www.nationalgallery.org.uk/paintings/john-constable-the-hay-wain",
+      "firstReadReference": "turn211view0",
+      "secondReadReference": "turn241view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 129、150、194 부근",
+      "verifiedFact": "「건초 마차(The Hay Wain)」는 존 컨스터블의 작품이다.",
+      "answer": "art-017-d",
+      "distractorOptionIds": [
+        "art-017-a",
+        "art-017-b",
+        "art-017-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-018",
+      "sourceKey": "AP4",
+      "sourceUrl": "https://www.nationalgallery.org.uk/paintings/rembrandt-self-portrait-at-the-age-of-63",
+      "firstReadReference": "turn209view0",
+      "secondReadReference": "turn268view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 103、104、105 부근",
+      "verifiedFact": "「63세의 자화상(Self Portrait at the Age of 63)」는 렘브란트의 작품이다.",
+      "answer": "art-018-c",
+      "distractorOptionIds": [
+        "art-018-a",
+        "art-018-b",
+        "art-018-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-019",
+      "sourceKey": "AP6",
+      "sourceUrl": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors",
+      "firstReadReference": "turn214view0",
+      "secondReadReference": "turn260view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 105、127、130 부근",
+      "verifiedFact": "「대사들(The Ambassadors)」는 한스 홀바인(아들)의 작품이다.",
+      "answer": "art-019-b",
+      "distractorOptionIds": [
+        "art-019-a",
+        "art-019-c",
+        "art-019-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-020",
+      "sourceKey": "AP7",
+      "sourceUrl": "https://www.nationalgallery.org.uk/paintings/georges-seurat-bathers-at-asnieres",
+      "firstReadReference": "turn215view0",
+      "secondReadReference": "turn254view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 126、129、152 부근",
+      "verifiedFact": "「아니에르에서 물놀이하는 사람들」는 조르주 쇠라의 작품이다.",
+      "answer": "art-020-a",
+      "distractorOptionIds": [
+        "art-020-b",
+        "art-020-c",
+        "art-020-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-021",
+      "sourceKey": "AP8",
+      "sourceUrl": "https://www.nationalgallery.org.uk/paintings/pierre-auguste-renoir-the-umbrellas",
+      "firstReadReference": "turn217view0",
+      "secondReadReference": "turn245view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 123、125、143 부근",
+      "verifiedFact": "「우산들(The Umbrellas)」는 피에르 오귀스트 르누아르의 작품이다.",
+      "answer": "art-021-d",
+      "distractorOptionIds": [
+        "art-021-a",
+        "art-021-b",
+        "art-021-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-022",
+      "sourceKey": "AP9",
+      "sourceUrl": "https://www.nationalgallery.org.uk/paintings/paul-cezanne-bathers-les-grandes-baigneuses",
+      "firstReadReference": "turn212view0",
+      "secondReadReference": "turn257view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 95、123、126 부근",
+      "verifiedFact": "「대수욕도(Bathers, Les Grandes Baigneuses)」는 폴 세잔의 작품이다.",
+      "answer": "art-022-c",
+      "distractorOptionIds": [
+        "art-022-a",
+        "art-022-b",
+        "art-022-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-023",
+      "sourceKey": "AP10",
+      "sourceUrl": "https://www.nationalgallery.org.uk/paintings/thomas-gainsborough-mr-and-mrs-andrews",
+      "firstReadReference": "turn218view0",
+      "secondReadReference": "turn232view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 124、127、146 부근",
+      "verifiedFact": "「앤드루스 부부」는 토머스 게인즈버러의 작품이다.",
+      "answer": "art-023-b",
+      "distractorOptionIds": [
+        "art-023-a",
+        "art-023-c",
+        "art-023-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-024",
+      "sourceKey": "AP11",
+      "sourceUrl": "https://www.nationalgallery.org.uk/paintings/raphael-the-madonna-of-the-pinks-la-madonna-dei-garofani",
+      "firstReadReference": "turn210view0",
+      "secondReadReference": "turn240view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 95、103、106 부근",
+      "verifiedFact": "「카네이션의 성모(The Madonna of the Pinks)」는 라파엘로의 작품이다.",
+      "answer": "art-024-a",
+      "distractorOptionIds": [
+        "art-024-b",
+        "art-024-c",
+        "art-024-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-025",
+      "sourceKey": "AK1",
+      "sourceUrl": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=252&vcontsId=172556",
+      "firstReadReference": "turn207view0",
+      "secondReadReference": "turn233view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 265 부근",
+      "verifiedFact": "강강술래에서는 사람들이 손을 잡고 원을 이루어 노래하고 춤춘다.",
+      "answer": "art-025-d",
+      "distractorOptionIds": [
+        "art-025-a",
+        "art-025-b",
+        "art-025-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-026",
+      "sourceKey": "AK2",
+      "sourceUrl": "https://www.korean-culture.org/ebook/access/ecatalogt.jsp?Dir=312&callmode=normal&catimage=&eclang=en&start=30&um=s",
+      "firstReadReference": "turn205view0",
+      "secondReadReference": "turn229view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 30 부근",
+      "verifiedFact": "남사당놀이는 유랑 예인 집단이 마을을 돌며 펼치던 공연이다.",
+      "answer": "art-026-c",
+      "distractorOptionIds": [
+        "art-026-a",
+        "art-026-b",
+        "art-026-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-027",
+      "sourceKey": "AK1",
+      "sourceUrl": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=252&vcontsId=172556",
+      "firstReadReference": "turn207view0",
+      "secondReadReference": "turn233view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 284 부근",
+      "verifiedFact": "영산재는 불교 의식이다.",
+      "answer": "art-027-b",
+      "distractorOptionIds": [
+        "art-027-a",
+        "art-027-c",
+        "art-027-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-028",
+      "sourceKey": "AK2",
+      "sourceUrl": "https://www.korean-culture.org/ebook/access/ecatalogt.jsp?Dir=312&callmode=normal&catimage=&eclang=en&start=30&um=s",
+      "firstReadReference": "turn205view0",
+      "secondReadReference": "turn229view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 31 부근",
+      "verifiedFact": "처용무는 다섯 명의 무용수가 추는 궁중무용이다.",
+      "answer": "art-028-a",
+      "distractorOptionIds": [
+        "art-028-b",
+        "art-028-c",
+        "art-028-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-029",
+      "sourceKey": "AK1",
+      "sourceUrl": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=252&vcontsId=172556",
+      "firstReadReference": "turn207view0",
+      "secondReadReference": "turn233view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 311 부근",
+      "verifiedFact": "국악 가곡은 시조에 곡을 붙여 관현 반주와 함께 부른다.",
+      "answer": "art-029-d",
+      "distractorOptionIds": [
+        "art-029-a",
+        "art-029-b",
+        "art-029-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-030",
+      "sourceKey": "AK2",
+      "sourceUrl": "https://www.korean-culture.org/ebook/access/ecatalogt.jsp?Dir=312&callmode=normal&catimage=&eclang=en&start=30&um=s",
+      "firstReadReference": "turn205view0",
+      "secondReadReference": "turn229view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 31 부근",
+      "verifiedFact": "대목장은 전통 목조 건축과 관련된 장인이다.",
+      "answer": "art-030-c",
+      "distractorOptionIds": [
+        "art-030-a",
+        "art-030-b",
+        "art-030-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-031",
+      "sourceKey": "AK2",
+      "sourceUrl": "https://www.korean-culture.org/ebook/access/ecatalogt.jsp?Dir=312&callmode=normal&catimage=&eclang=en&start=30&um=s",
+      "firstReadReference": "turn205view0",
+      "secondReadReference": "turn229view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 32 부근",
+      "verifiedFact": "전통 줄타기는 줄 위에서 곡예와 재담을 펼치는 공연이다.",
+      "answer": "art-031-b",
+      "distractorOptionIds": [
+        "art-031-a",
+        "art-031-c",
+        "art-031-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-032",
+      "sourceKey": "AK2",
+      "sourceUrl": "https://www.korean-culture.org/ebook/access/ecatalogt.jsp?Dir=312&callmode=normal&catimage=&eclang=en&start=30&um=s",
+      "firstReadReference": "turn205view0",
+      "secondReadReference": "turn229view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 32 부근",
+      "verifiedFact": "택견은 한국의 전통 무예이다.",
+      "answer": "art-032-a",
+      "distractorOptionIds": [
+        "art-032-b",
+        "art-032-c",
+        "art-032-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-033",
+      "sourceKey": "AK2",
+      "sourceUrl": "https://www.korean-culture.org/ebook/access/ecatalogt.jsp?Dir=312&callmode=normal&catimage=&eclang=en&start=30&um=s",
+      "firstReadReference": "turn205view0",
+      "secondReadReference": "turn229view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 32 부근",
+      "verifiedFact": "한산 모시는 모시풀에서 얻은 섬유로 짠 직물이다.",
+      "answer": "art-033-d",
+      "distractorOptionIds": [
+        "art-033-a",
+        "art-033-b",
+        "art-033-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-034",
+      "sourceKey": "AK1",
+      "sourceUrl": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=252&vcontsId=172556",
+      "firstReadReference": "turn207view0",
+      "secondReadReference": "turn233view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 385 부근",
+      "verifiedFact": "농악에는 전통 타악기와 관악기의 연주가 함께한다.",
+      "answer": "art-034-c",
+      "distractorOptionIds": [
+        "art-034-a",
+        "art-034-b",
+        "art-034-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-035",
+      "sourceKey": "AK1",
+      "sourceUrl": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=252&vcontsId=172556",
+      "firstReadReference": "turn207view0",
+      "secondReadReference": "turn233view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 402 부근",
+      "verifiedFact": "제주 해녀의 잠수 채취 작업을 물질이라고 한다.",
+      "answer": "art-035-b",
+      "distractorOptionIds": [
+        "art-035-a",
+        "art-035-c",
+        "art-035-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-036",
+      "sourceKey": "AK1",
+      "sourceUrl": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=252&vcontsId=172556",
+      "firstReadReference": "turn207view0",
+      "secondReadReference": "turn233view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 411 부근",
+      "verifiedFact": "씨름에서는 허리와 넓적다리에 두른 샅바를 잡고 겨룬다.",
+      "answer": "art-036-a",
+      "distractorOptionIds": [
+        "art-036-b",
+        "art-036-c",
+        "art-036-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-037",
+      "sourceKey": "AK2",
+      "sourceUrl": "https://www.korean-culture.org/ebook/access/ecatalogt.jsp?Dir=312&callmode=normal&catimage=&eclang=en&start=30&um=s",
+      "firstReadReference": "turn205view0",
+      "secondReadReference": "turn229view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 29 부근",
+      "verifiedFact": "단오는 음력 5월 5일이다.",
+      "answer": "art-037-d",
+      "distractorOptionIds": [
+        "art-037-a",
+        "art-037-b",
+        "art-037-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-038",
+      "sourceKey": "AK2",
+      "sourceUrl": "https://www.korean-culture.org/ebook/access/ecatalogt.jsp?Dir=312&callmode=normal&catimage=&eclang=en&start=30&um=s",
+      "firstReadReference": "turn205view0",
+      "secondReadReference": "turn229view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 31 부근",
+      "verifiedFact": "매사냥은 매를 기르고 훈련해 사냥에 이용하는 전통이다.",
+      "answer": "art-038-c",
+      "distractorOptionIds": [
+        "art-038-a",
+        "art-038-b",
+        "art-038-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-039",
+      "sourceKey": "AK2",
+      "sourceUrl": "https://www.korean-culture.org/ebook/access/ecatalogt.jsp?Dir=312&callmode=normal&catimage=&eclang=en&start=30&um=s",
+      "firstReadReference": "turn205view0",
+      "secondReadReference": "turn229view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 17、30 부근",
+      "verifiedFact": "칠머리당영등굿은 제주에서 전승되는 전통 의례이다.",
+      "answer": "art-039-b",
+      "distractorOptionIds": [
+        "art-039-a",
+        "art-039-c",
+        "art-039-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-040",
+      "sourceKey": "AK1",
+      "sourceUrl": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=252&vcontsId=172556",
+      "firstReadReference": "turn207view0",
+      "secondReadReference": "turn233view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 428 부근",
+      "verifiedFact": "탈춤은 탈을 쓰고 춤·노래·연기를 펼치는 공연이다.",
+      "answer": "art-040-a",
+      "distractorOptionIds": [
+        "art-040-b",
+        "art-040-c",
+        "art-040-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-041",
+      "sourceKey": "AM1",
+      "sourceUrl": "https://www.rbo.org.uk/opera-essentials-marriage-of-figaro",
+      "firstReadReference": "turn227view0",
+      "secondReadReference": "turn235view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 21 부근",
+      "verifiedFact": "피가로의 결혼은 모차르트가 작곡했다.",
+      "answer": "art-041-d",
+      "distractorOptionIds": [
+        "art-041-a",
+        "art-041-b",
+        "art-041-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-042",
+      "sourceKey": "AM1",
+      "sourceUrl": "https://www.rbo.org.uk/opera-essentials-marriage-of-figaro",
+      "firstReadReference": "turn227view0",
+      "secondReadReference": "turn235view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 21、25、40 부근",
+      "verifiedFact": "피가로의 결혼의 대본은 로렌초 다 폰테가 썼다.",
+      "answer": "art-042-c",
+      "distractorOptionIds": [
+        "art-042-a",
+        "art-042-b",
+        "art-042-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-043",
+      "sourceKey": "AM2",
+      "sourceUrl": "https://www.rbo.org.uk/production/carmen-damiano-michieletto",
+      "firstReadReference": "turn224view0",
+      "secondReadReference": "turn239view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 112、150 부근",
+      "verifiedFact": "카르멘은 조르주 비제가 작곡했다.",
+      "answer": "art-043-b",
+      "distractorOptionIds": [
+        "art-043-a",
+        "art-043-c",
+        "art-043-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-044",
+      "sourceKey": "AM2",
+      "sourceUrl": "https://www.rbo.org.uk/production/carmen-damiano-michieletto",
+      "firstReadReference": "turn224view0",
+      "secondReadReference": "turn239view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 150 부근",
+      "verifiedFact": "카르멘의 이야기는 세비야를 배경으로 한다.",
+      "answer": "art-044-a",
+      "distractorOptionIds": [
+        "art-044-b",
+        "art-044-c",
+        "art-044-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-045",
+      "sourceKey": "AM3",
+      "sourceUrl": "https://www.rbo.org.uk/production/aida-robert-carsen",
+      "firstReadReference": "turn222view0",
+      "secondReadReference": "turn237view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 109、144 부근",
+      "verifiedFact": "아이다는 주세페 베르디가 작곡했다.",
+      "answer": "art-045-d",
+      "distractorOptionIds": [
+        "art-045-a",
+        "art-045-b",
+        "art-045-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-046",
+      "sourceKey": "AM3",
+      "sourceUrl": "https://www.rbo.org.uk/production/aida-robert-carsen",
+      "firstReadReference": "turn222view0",
+      "secondReadReference": "turn237view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 100、141、145 부근",
+      "verifiedFact": "아이다의 원작 대본은 고대 이집트를 주된 배경으로 삼는다.",
+      "answer": "art-046-c",
+      "distractorOptionIds": [
+        "art-046-a",
+        "art-046-b",
+        "art-046-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-047",
+      "sourceKey": "AM4",
+      "sourceUrl": "https://www.rbo.org.uk/production/the-nutcracker-peter-wright",
+      "firstReadReference": "turn226view0",
+      "secondReadReference": "turn238view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 5、120、143 부근",
+      "verifiedFact": "호두까기 인형의 음악은 차이콥스키가 작곡했다.",
+      "answer": "art-047-b",
+      "distractorOptionIds": [
+        "art-047-a",
+        "art-047-c",
+        "art-047-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-048",
+      "sourceKey": "AM4",
+      "sourceUrl": "https://www.rbo.org.uk/production/the-nutcracker-peter-wright",
+      "firstReadReference": "turn226view0",
+      "secondReadReference": "turn238view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 153 부근",
+      "verifiedFact": "사탕 요정의 춤은 첼레스타의 반짝이는 음색으로 알려져 있다.",
+      "answer": "art-048-a",
+      "distractorOptionIds": [
+        "art-048-b",
+        "art-048-c",
+        "art-048-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-049",
+      "sourceKey": "AM7",
+      "sourceUrl": "https://www.coe.int/en/web/about-us/the-european-anthem",
+      "firstReadReference": "turn228view0",
+      "secondReadReference": "turn244view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 37 부근",
+      "verifiedFact": "환희의 송가 선율은 베토벤의 교향곡 9번에 나온다.",
+      "answer": "art-049-d",
+      "distractorOptionIds": [
+        "art-049-a",
+        "art-049-b",
+        "art-049-c"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    },
+    {
+      "questionId": "art-050",
+      "sourceKey": "AM1",
+      "sourceUrl": "https://www.rbo.org.uk/opera-essentials-marriage-of-figaro",
+      "firstReadReference": "turn227view0",
+      "secondReadReference": "turn235view0",
+      "checkedAt": "2026-10-17",
+      "sourceLocation": "본문 재열람 표시 행 29 부근",
+      "verifiedFact": "세비야의 이발사는 로시니가 작곡했다.",
+      "answer": "art-050-c",
+      "distractorOptionIds": [
+        "art-050-a",
+        "art-050-b",
+        "art-050-d"
+      ],
+      "editorialChecks": {
+        "sourceSupportsQuestionAndAnswer": true,
+        "exactlyOneCorrectAnswer": true,
+        "threeDistractorsExcluded": true,
+        "conditionsSpecified": true,
+        "explanationSupported": true,
+        "avoidsFrequentlyChangingFacts": true,
+        "noDuplicateOrDirectAnswerDisclosure": true,
+        "noUnresolvedWordingCue": true
+      }
+    }
+  ]
+}

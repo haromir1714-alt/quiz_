@@ -1,0 +1,4232 @@
+{
+  "bankVersion": "1.1.1",
+  "checkedAt": "2026-10-17",
+  "questionCount": 200,
+  "sourceUrlCount": 130,
+  "note": "원문 의미 대조와 편집 검수의 기록이다. 자동 필드·키워드 검사만으로 통과시킨 것이 아니며, 외부 전문가의 독립 검수는 아니다.",
+  "rows": [
+    {
+      "questionId": "hist-001",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.unesco.org/en/memory-world/hunminjeongum-manuscript?hub=1081"
+      ],
+      "searchTerms": [
+        "Sejong"
+      ],
+      "answer": "세종",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-002",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/817/"
+      ],
+      "searchTerms": [
+        "King Jeongjo"
+      ],
+      "answer": "정조",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-003",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/816/"
+      ],
+      "searchTerms": [
+        "Taejong"
+      ],
+      "answer": "태종",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-004",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/738/"
+      ],
+      "searchTerms": [
+        "Joseon"
+      ],
+      "answer": "조선",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-005",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/737/"
+      ],
+      "searchTerms": [
+        "Janggyeong Panjeon",
+        "woodblocks"
+      ],
+      "answer": "장경판전",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-006",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/976/"
+      ],
+      "searchTerms": [
+        "capital city of the Silla"
+      ],
+      "answer": "신라",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-007",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1477/"
+      ],
+      "searchTerms": [
+        "Ungjin",
+        "Gongju"
+      ],
+      "answer": "공주",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-008",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/977/"
+      ],
+      "searchTerms": [
+        "tombs"
+      ],
+      "answer": "무덤",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-009",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1439/"
+      ],
+      "searchTerms": [
+        "emergency capital"
+      ],
+      "answer": "비상시의 수도",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-010",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1498/"
+      ],
+      "searchTerms": [
+        "Neo-Confucian"
+      ],
+      "answer": "성리학",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-011",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_n206200"
+      ],
+      "searchTerms": [
+        "왕건"
+      ],
+      "answer": "왕건",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-012",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_n206200"
+      ],
+      "searchTerms": [
+        "918"
+      ],
+      "answer": "918년",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-013",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_n206200"
+      ],
+      "searchTerms": [
+        "936"
+      ],
+      "answer": "936년",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-014",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_n206200"
+      ],
+      "searchTerms": [
+        "견훤"
+      ],
+      "answer": "견훤",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-015",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h51_0040_0020_0010"
+      ],
+      "searchTerms": [
+        "소수림왕"
+      ],
+      "answer": "소수림왕",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-016",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h51_0040_0020_0010"
+      ],
+      "searchTerms": [
+        "장수왕"
+      ],
+      "answer": "장수왕",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-017",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h51_0040_0020_0010"
+      ],
+      "searchTerms": [
+        "성왕"
+      ],
+      "answer": "성왕",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-018",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h51_0040_0020_0010"
+      ],
+      "searchTerms": [
+        "법흥왕"
+      ],
+      "answer": "법흥왕",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-019",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m61_0080_0010"
+      ],
+      "searchTerms": [
+        "이성계"
+      ],
+      "answer": "이성계",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-020",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m61_0080_0010"
+      ],
+      "searchTerms": [
+        "1392"
+      ],
+      "answer": "1392년",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-021",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m61_0080_0010"
+      ],
+      "searchTerms": [
+        "위화도"
+      ],
+      "answer": "위화도",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-022",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m61_0080_0010"
+      ],
+      "searchTerms": [
+        "경국대전"
+      ],
+      "answer": "경국대전",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-023",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/front/hm/print.do?levelId=hm_034_0020&tabId=01&treeId=010302&whereStr="
+      ],
+      "searchTerms": [
+        "장보고",
+        "흥덕왕"
+      ],
+      "answer": "장보고",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-024",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/front/hm/print.do?levelId=hm_034_0020&tabId=01&treeId=010302&whereStr="
+      ],
+      "searchTerms": [
+        "완도"
+      ],
+      "answer": "완도",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-025",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h62_0040_0030_0020"
+      ],
+      "searchTerms": [
+        "상하이"
+      ],
+      "answer": "상하이",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-026",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h62_0040_0030_0020"
+      ],
+      "searchTerms": [
+        "김구"
+      ],
+      "answer": "김구",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-027",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h62_0040_0030_0020"
+      ],
+      "searchTerms": [
+        "윤봉길"
+      ],
+      "answer": "윤봉길",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-028",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h62_0040_0030_0020"
+      ],
+      "searchTerms": [
+        "공화"
+      ],
+      "answer": "민주 공화제",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-029",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_r400300"
+      ],
+      "searchTerms": [
+        "고종"
+      ],
+      "answer": "고종",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-030",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_r400300"
+      ],
+      "searchTerms": [
+        "1897"
+      ],
+      "answer": "1897년",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-031",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_r400300"
+      ],
+      "searchTerms": [
+        "황제에 등극"
+      ],
+      "answer": "환구단",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-032",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h52_0040_0010_0040"
+      ],
+      "searchTerms": [
+        "1884"
+      ],
+      "answer": "1884년",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-033",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h52_0040_0010_0040"
+      ],
+      "searchTerms": [
+        "우정국"
+      ],
+      "answer": "우정국",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-034",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h52_0040_0010_0040"
+      ],
+      "searchTerms": [
+        "김옥균"
+      ],
+      "answer": "김옥균",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-035",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/front/ta/view.do?levelId=ta_h52_0040_0010_0040"
+      ],
+      "searchTerms": [
+        "박문국"
+      ],
+      "answer": "박문국",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-036",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_m61_0050_0030"
+      ],
+      "searchTerms": [
+        "대조영"
+      ],
+      "answer": "대조영",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-037",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_m61_0050_0030"
+      ],
+      "searchTerms": [
+        "698"
+      ],
+      "answer": "698년",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-038",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_m61_0050_0030"
+      ],
+      "searchTerms": [
+        "해동 성국"
+      ],
+      "answer": "해동성국",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-039",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/front/tg/list.do?ganada=&pageIndex=35&pageUnit=10&treeId=0200"
+      ],
+      "searchTerms": [
+        "삼국사기"
+      ],
+      "answer": "김부식",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-040",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/front/tg/list.do?ganada=&pageIndex=35&pageUnit=10&treeId=0200"
+      ],
+      "searchTerms": [
+        "삼국유사"
+      ],
+      "answer": "일연",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-041",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i401500"
+      ],
+      "searchTerms": [
+        "1894"
+      ],
+      "answer": "1894년",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-042",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i401500"
+      ],
+      "searchTerms": [
+        "전봉준"
+      ],
+      "answer": "전봉준",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-043",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/front/hm/view.do?levelId=hm_112_0010"
+      ],
+      "searchTerms": [
+        "허준"
+      ],
+      "answer": "허준",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-044",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/front/hm/view.do?levelId=hm_112_0010"
+      ],
+      "searchTerms": [
+        "의학"
+      ],
+      "answer": "의학",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-045",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/play/view.do?levelId=ts_b03"
+      ],
+      "searchTerms": [
+        "이순신"
+      ],
+      "answer": "이순신",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-046",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/play/view.do?levelId=ts_b03"
+      ],
+      "searchTerms": [
+        "임진왜란"
+      ],
+      "answer": "임진왜란",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-047",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/mobile/eh/view.do?code=ganada&levelId=eh_n0860_0010"
+      ],
+      "searchTerms": [
+        "1919년 3월 1일"
+      ],
+      "answer": "1919년",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-048",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://contents.history.go.kr/mobile/eh/view.do?code=ganada&levelId=eh_n0860_0010"
+      ],
+      "searchTerms": [
+        "이화학당",
+        "아우내"
+      ],
+      "answer": "유관순",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-049",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.unesco.org/en/memory-world/baegun-hwasang-chorok-buljo-jikji-simche-yojeol-volii-second-volume-anthology-great-buddhist-priests"
+      ],
+      "searchTerms": [
+        "movable metal"
+      ],
+      "answer": "금속 활자",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "hist-050",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.unesco.org/en/memory-world/baegun-hwasang-chorok-buljo-jikji-simche-yojeol-volii-second-volume-anthology-great-buddhist-priests"
+      ],
+      "searchTerms": [
+        "Heungdeok"
+      ],
+      "answer": "흥덕사",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-001",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://science.nasa.gov/mars/facts/"
+      ],
+      "searchTerms": [
+        "oxidization",
+        "iron"
+      ],
+      "answer": "화성",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-002",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://science.nasa.gov/solar-system/solar-system-facts/"
+      ],
+      "searchTerms": [
+        "our star"
+      ],
+      "answer": "항성",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-003",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://science.nasa.gov/jupiter/jupiter-facts/"
+      ],
+      "searchTerms": [
+        "largest planet"
+      ],
+      "answer": "목성",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-004",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://spaceplace.nasa.gov/all-about-the-moon/en/"
+      ],
+      "searchTerms": [
+        "natural satellite"
+      ],
+      "answer": "달",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-005",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://periodic-table.rsc.org/element/8/Oxygen"
+      ],
+      "searchTerms": [
+        "Atomic number"
+      ],
+      "answer": "8",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-006",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://periodic-table.rsc.org/element/79/Gold"
+      ],
+      "searchTerms": [
+        "symbol is Au"
+      ],
+      "answer": "Au",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-007",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.usgs.gov/water-science-school/science/evaporation-and-water-cycle",
+        "https://www.nesdis.noaa.gov/about/k-12-education/understanding-our-planet/water-cycle-board-game"
+      ],
+      "searchTerms": [
+        "liquid water",
+        "water vapor"
+      ],
+      "answer": "증발",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-008",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.kew.org/read-and-watch/why-do-leaves-change-colour"
+      ],
+      "searchTerms": [
+        "chlorophyll"
+      ],
+      "answer": "엽록소",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-009",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.nidcd.nih.gov/health/how-do-we-hear"
+      ],
+      "searchTerms": [
+        "cochlea",
+        "Hair cells"
+      ],
+      "answer": "달팽이관",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-010",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://science.nasa.gov/earth/climate-change/greenhouse-gases/the-atmosphere-getting-a-handle-on-carbon-dioxide/",
+        "https://science.nasa.gov/earth/facts/"
+      ],
+      "searchTerms": [
+        "dry air",
+        "nitrogen"
+      ],
+      "answer": "질소",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-011",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.bipm.org/en/measurement-units/si-base-units"
+      ],
+      "searchTerms": [
+        "length"
+      ],
+      "answer": "미터(m)",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-012",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.bipm.org/en/measurement-units/si-base-units"
+      ],
+      "searchTerms": [
+        "mass"
+      ],
+      "answer": "킬로그램(kg)",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-013",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.bipm.org/en/measurement-units/si-base-units"
+      ],
+      "searchTerms": [
+        "time"
+      ],
+      "answer": "초(s)",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-014",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.bipm.org/en/measurement-units/si-base-units"
+      ],
+      "searchTerms": [
+        "electric current"
+      ],
+      "answer": "암페어(A)",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-015",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.bipm.org/en/measurement-units/si-base-units"
+      ],
+      "searchTerms": [
+        "thermodynamic temperature"
+      ],
+      "answer": "켈빈(K)",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-016",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.bipm.org/en/measurement-units/si-base-units"
+      ],
+      "searchTerms": [
+        "amount of substance"
+      ],
+      "answer": "몰(mol)",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-017",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.bipm.org/en/measurement-units/si-base-units"
+      ],
+      "searchTerms": [
+        "luminous intensity"
+      ],
+      "answer": "칸델라(cd)",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-018",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://science.nasa.gov/mercury/facts/"
+      ],
+      "searchTerms": [
+        "nearest to the Sun"
+      ],
+      "answer": "수성",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-019",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://science.nasa.gov/mercury/facts/"
+      ],
+      "searchTerms": [
+        "smallest planet"
+      ],
+      "answer": "수성",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-020",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://science.nasa.gov/venus/facts/"
+      ],
+      "searchTerms": [
+        "hottest planet"
+      ],
+      "answer": "금성",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-021",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://science.nasa.gov/venus/facts/"
+      ],
+      "searchTerms": [
+        "mostly carbon dioxide"
+      ],
+      "answer": "이산화탄소",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-022",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://science.nasa.gov/saturn/facts/"
+      ],
+      "searchTerms": [
+        "chunks of ice and rock"
+      ],
+      "answer": "얼음과 암석",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-023",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://science.nasa.gov/saturn/facts/"
+      ],
+      "searchTerms": [
+        "average density"
+      ],
+      "answer": "토성",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-024",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://science.nasa.gov/uranus/facts/"
+      ],
+      "searchTerms": [
+        "spin sideways"
+      ],
+      "answer": "천왕성",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-025",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://science.nasa.gov/uranus/facts/"
+      ],
+      "searchTerms": [
+        "Methane gas absorbs"
+      ],
+      "answer": "메테인",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-026",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://science.nasa.gov/neptune/facts/"
+      ],
+      "searchTerms": [
+        "most distant planet"
+      ],
+      "answer": "해왕성",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-027",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://science.nasa.gov/neptune/facts/"
+      ],
+      "searchTerms": [
+        "165 Earth years"
+      ],
+      "answer": "165년",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-028",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://gchem.cm.utexas.edu/data/ptable.php"
+      ],
+      "searchTerms": [
+        "hydrogen"
+      ],
+      "answer": "H",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-029",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://gchem.cm.utexas.edu/data/ptable.php"
+      ],
+      "searchTerms": [
+        "helium"
+      ],
+      "answer": "He",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-030",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://gchem.cm.utexas.edu/data/ptable.php"
+      ],
+      "searchTerms": [
+        "carbon"
+      ],
+      "answer": "C",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-031",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://gchem.cm.utexas.edu/data/ptable.php"
+      ],
+      "searchTerms": [
+        "sodium"
+      ],
+      "answer": "Na",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-032",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://gchem.cm.utexas.edu/data/ptable.php"
+      ],
+      "searchTerms": [
+        "silicon"
+      ],
+      "answer": "Si",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-033",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://gchem.cm.utexas.edu/data/ptable.php"
+      ],
+      "searchTerms": [
+        "chlorine"
+      ],
+      "answer": "Cl",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-034",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://gchem.cm.utexas.edu/data/ptable.php"
+      ],
+      "searchTerms": [
+        "calcium"
+      ],
+      "answer": "Ca",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-035",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://gchem.cm.utexas.edu/data/ptable.php"
+      ],
+      "searchTerms": [
+        "iron"
+      ],
+      "answer": "Fe",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-036",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://gchem.cm.utexas.edu/data/ptable.php"
+      ],
+      "searchTerms": [
+        "copper"
+      ],
+      "answer": "Cu",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-037",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://gchem.cm.utexas.edu/data/ptable.php"
+      ],
+      "searchTerms": [
+        "silver"
+      ],
+      "answer": "Ag",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-038",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works"
+      ],
+      "searchTerms": [
+        "digestive process starts in your mouth"
+      ],
+      "answer": "입",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-039",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works"
+      ],
+      "searchTerms": [
+        "pushes the food down your esophagus into your stomach"
+      ],
+      "answer": "식도",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-040",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works"
+      ],
+      "searchTerms": [
+        "stomach lining make stomach acid"
+      ],
+      "answer": "위",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-041",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works"
+      ],
+      "searchTerms": [
+        "absorbs most of the nutrients"
+      ],
+      "answer": "작은창자",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-042",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works"
+      ],
+      "searchTerms": [
+        "Liver. Your liver makes"
+      ],
+      "answer": "간",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-043",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works"
+      ],
+      "searchTerms": [
+        "gallbladder stores bile"
+      ],
+      "answer": "담낭",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-044",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.nhlbi.nih.gov/health/blood-tests"
+      ],
+      "searchTerms": [
+        "Hemoglobin is an iron-rich protein in red blood cells"
+      ],
+      "answer": "적혈구",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-045",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.nhlbi.nih.gov/health/blood-tests"
+      ],
+      "searchTerms": [
+        "Platelets are blood cell fragments"
+      ],
+      "answer": "혈소판",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-046",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.nhlbi.nih.gov/health/heart"
+      ],
+      "searchTerms": [
+        "pumps blood"
+      ],
+      "answer": "심장",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-047",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.nhlbi.nih.gov/health/lungs"
+      ],
+      "searchTerms": [
+        "gas exchange"
+      ],
+      "answer": "폐",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-048",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://science.nasa.gov/moon/eclipses/"
+      ],
+      "searchTerms": [
+        "Moon is between Earth and the Sun"
+      ],
+      "answer": "달",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-049",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://science.nasa.gov/moon/eclipses/"
+      ],
+      "searchTerms": [
+        "Earth’s shadow falls"
+      ],
+      "answer": "지구",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "sci-050",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://science.nasa.gov/moon/moon-phases/"
+      ],
+      "searchTerms": [
+        "reflected sunlight"
+      ],
+      "answer": "태양빛을 반사한 빛",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-001",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/252/"
+      ],
+      "searchTerms": [
+        "Agra",
+        "India"
+      ],
+      "answer": "인도",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-002",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/75/"
+      ],
+      "searchTerms": [
+        "Colorado River"
+      ],
+      "answer": "콜로라도강",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-003",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/154/"
+      ],
+      "searchTerms": [
+        "north-east coast of Australia"
+      ],
+      "answer": "오스트레일리아",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-004",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1/"
+      ],
+      "searchTerms": [
+        "Pacific Ocean"
+      ],
+      "answer": "태평양",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-005",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/274/"
+      ],
+      "searchTerms": [
+        "Andes"
+      ],
+      "answer": "안데스산맥",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-006",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/120/"
+      ],
+      "searchTerms": [
+        "Mount Everest"
+      ],
+      "answer": "에베레스트산",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-007",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/156/"
+      ],
+      "searchTerms": [
+        "United Republic of Tanzania"
+      ],
+      "answer": "탄자니아",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-008",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/373/"
+      ],
+      "searchTerms": [
+        "United Kingdom",
+        "Wiltshire"
+      ],
+      "answer": "영국",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-009",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1418/"
+      ],
+      "searchTerms": [
+        "Japan",
+        "stratovolcano"
+      ],
+      "answer": "일본",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-010",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/394/"
+      ],
+      "searchTerms": [
+        "Northeast Italy"
+      ],
+      "answer": "이탈리아",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-011",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/438/"
+      ],
+      "searchTerms": [
+        "China"
+      ],
+      "answer": "중국",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-012",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/326/"
+      ],
+      "searchTerms": [
+        "Jordan"
+      ],
+      "answer": "요르단",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-013",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/668/"
+      ],
+      "searchTerms": [
+        "Cambodia"
+      ],
+      "answer": "캄보디아",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-014",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/592/"
+      ],
+      "searchTerms": [
+        "central Java"
+      ],
+      "answer": "자바섬",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-015",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/404/"
+      ],
+      "searchTerms": [
+        "Acropolis of Athens"
+      ],
+      "answer": "아테네",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-016",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/86/"
+      ],
+      "searchTerms": [
+        "Egypt"
+      ],
+      "answer": "이집트",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-017",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/83/"
+      ],
+      "searchTerms": [
+        "France"
+      ],
+      "answer": "프랑스",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-018",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/314/"
+      ],
+      "searchTerms": [
+        "Granada"
+      ],
+      "answer": "그라나다",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-019",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/715/"
+      ],
+      "searchTerms": [
+        "Chile"
+      ],
+      "answer": "칠레",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-020",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/28/"
+      ],
+      "searchTerms": [
+        "geysers"
+      ],
+      "answer": "간헐천",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-021",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/308/"
+      ],
+      "searchTerms": [
+        "glacial erosion"
+      ],
+      "answer": "빙하의 침식",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-022",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/403/"
+      ],
+      "searchTerms": [
+        "Africa"
+      ],
+      "answer": "아프리카",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-023",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/509/"
+      ],
+      "searchTerms": [
+        "Zambezi River"
+      ],
+      "answer": "잠베지강",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-024",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/672/"
+      ],
+      "searchTerms": [
+        "limestone"
+      ],
+      "answer": "석회암",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-025",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/609/"
+      ],
+      "searchTerms": [
+        "Indonesia"
+      ],
+      "answer": "인도네시아",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-026",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/98/"
+      ],
+      "searchTerms": [
+        "Croatia"
+      ],
+      "answer": "크로아티아",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-027",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/303/"
+      ],
+      "searchTerms": [
+        "border between Argentina and Brazil"
+      ],
+      "answer": "아르헨티나·브라질",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-028",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/369/"
+      ],
+      "searchTerms": [
+        "basalt columns"
+      ],
+      "answer": "현무암",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-029",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/357/"
+      ],
+      "searchTerms": [
+        "Türkiye"
+      ],
+      "answer": "튀르키예",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-030",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/754/"
+      ],
+      "searchTerms": [
+        "south-east Siberia"
+      ],
+      "answer": "시베리아",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-031",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1432/"
+      ],
+      "searchTerms": [
+        "do not flow into a sea"
+      ],
+      "answer": "바다로 직접 이어지지 않는 내륙 삼각주이다",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-032",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1430/"
+      ],
+      "searchTerms": [
+        "Fog is the primary source"
+      ],
+      "answer": "안개",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-033",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/798/"
+      ],
+      "searchTerms": [
+        "mangrove forest"
+      ],
+      "answer": "맹그로브 숲",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-034",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/951/"
+      ],
+      "searchTerms": [
+        "limestone karst"
+      ],
+      "answer": "석회암",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-035",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1264/"
+      ],
+      "searchTerms": [
+        "lava tube system"
+      ],
+      "answer": "용암 동굴",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-036",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/185/"
+      ],
+      "searchTerms": [
+        "coral islands"
+      ],
+      "answer": "산호섬",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-037",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1263/"
+      ],
+      "searchTerms": [
+        "northwest Indian Ocean"
+      ],
+      "answer": "인도양",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-038",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/551/"
+      ],
+      "searchTerms": [
+        "successive glaciations"
+      ],
+      "answer": "빙하 작용",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-039",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/145/"
+      ],
+      "searchTerms": [
+        "glaciers"
+      ],
+      "answer": "빙하",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-040",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/400/"
+      ],
+      "searchTerms": [
+        "Danube"
+      ],
+      "answer": "다뉴브강",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-041",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/616/"
+      ],
+      "searchTerms": [
+        "Czechia"
+      ],
+      "answer": "체코",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-042",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/2/"
+      ],
+      "searchTerms": [
+        "capital of Ecuador"
+      ],
+      "answer": "에콰도르",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-043",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/204/"
+      ],
+      "searchTerms": [
+        "Cuba"
+      ],
+      "answer": "쿠바",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-044",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/331/"
+      ],
+      "searchTerms": [
+        "Morocco"
+      ],
+      "answer": "모로코",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-045",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/119/"
+      ],
+      "searchTerms": [
+        "Mali"
+      ],
+      "answer": "말리",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-046",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/603/"
+      ],
+      "searchTerms": [
+        "Uzbekistan"
+      ],
+      "answer": "우즈베키스탄",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-047",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/121/"
+      ],
+      "searchTerms": [
+        "Nepal"
+      ],
+      "answer": "네팔",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-048",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1483/"
+      ],
+      "searchTerms": [
+        "rubber plantations"
+      ],
+      "answer": "고무나무",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-049",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1033/"
+      ],
+      "searchTerms": [
+        "Austria"
+      ],
+      "answer": "오스트리아",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "geo-050",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/95/"
+      ],
+      "searchTerms": [
+        "Adriatic"
+      ],
+      "answer": "아드리아해",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-001",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.louvre.fr/en/explore/visitor-trails/the-louvre-s-masterpieces/a-superstar-and-a-wedding-crowd"
+      ],
+      "searchTerms": [
+        "Mona Lisa",
+        "Leonardo"
+      ],
+      "answer": "레오나르도 다빈치",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-002",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.moma.org/collection/works/79802?page=1"
+      ],
+      "searchTerms": [
+        "Vincent van Gogh",
+        "June 1889"
+      ],
+      "answer": "빈센트 반 고흐",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-003",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.moma.org/calendar/exhibitions/1305"
+      ],
+      "searchTerms": [
+        "Edvard Munch",
+        "The Scream"
+      ],
+      "answer": "에드바르 뭉크",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-004",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.gugak.go.kr/ency/topic/view/1575"
+      ],
+      "searchTerms": [
+        "소리북",
+        "추임새"
+      ],
+      "answer": "고수",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-005",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.gugak.go.kr/ency/topic/view/836"
+      ],
+      "searchTerms": [
+        "본조 아리랑",
+        "민요"
+      ],
+      "answer": "민요",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-006",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.korea.net/NewsFocus/Society/view?articleId=180280"
+      ],
+      "searchTerms": [
+        "kimjang",
+        "winter"
+      ],
+      "answer": "김장",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-007",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.spain.info/en/discover-spain/flamenco-spain/"
+      ],
+      "searchTerms": [
+        "Andalusia"
+      ],
+      "answer": "스페인",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-008",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://buenosaires.gob.ar/cultura/patrimonio-de-la-ciudad/tango/origenes-del-tango"
+      ],
+      "searchTerms": [
+        "Montevideo"
+      ],
+      "answer": "몬테비데오",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-009",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.moma.org/collection/works/79018"
+      ],
+      "searchTerms": [
+        "Salvador Dalí",
+        "1931"
+      ],
+      "answer": "살바도르 달리",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-010",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.metmuseum.org/art/collection/search/45434"
+      ],
+      "searchTerms": [
+        "Woodblock print"
+      ],
+      "answer": "목판화",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-011",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.mauritshuis.nl/en/our-collection/artworks/670-girl-with-a-pearl-earring"
+      ],
+      "searchTerms": [
+        "Johannes Vermeer"
+      ],
+      "answer": "요하네스 페르메이르",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-012",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.nationalgallery.org.uk/paintings/sandro-botticelli-venus-and-mars/"
+      ],
+      "searchTerms": [
+        "Sandro Botticelli"
+      ],
+      "answer": "산드로 보티첼리",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-013",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.museoreinasofia.es/en/collections/artwork/guernica-0/"
+      ],
+      "searchTerms": [
+        "Picasso"
+      ],
+      "answer": "파블로 피카소",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-014",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-the-fighting-temeraire"
+      ],
+      "searchTerms": [
+        "Turner"
+      ],
+      "answer": "윌리엄 터너",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-015",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.nationalgallery.org.uk/paintings/claude-monet-the-water-lily-pond"
+      ],
+      "searchTerms": [
+        "Claude Monet"
+      ],
+      "answer": "클로드 모네",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-016",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.nationalgallery.org.uk/paintings/jan-van-eyck-the-arnolfini-portrait"
+      ],
+      "searchTerms": [
+        "Jan van Eyck"
+      ],
+      "answer": "얀 반 에이크",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-017",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.nationalgallery.org.uk/paintings/john-constable-the-hay-wain"
+      ],
+      "searchTerms": [
+        "John Constable"
+      ],
+      "answer": "존 컨스터블",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-018",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.nationalgallery.org.uk/paintings/rembrandt-self-portrait-at-the-age-of-63"
+      ],
+      "searchTerms": [
+        "Rembrandt"
+      ],
+      "answer": "렘브란트",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-019",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors"
+      ],
+      "searchTerms": [
+        "Hans Holbein"
+      ],
+      "answer": "한스 홀바인(아들)",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-020",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.nationalgallery.org.uk/paintings/georges-seurat-bathers-at-asnieres"
+      ],
+      "searchTerms": [
+        "Georges Seurat"
+      ],
+      "answer": "조르주 쇠라",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-021",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.nationalgallery.org.uk/paintings/pierre-auguste-renoir-the-umbrellas"
+      ],
+      "searchTerms": [
+        "Pierre-Auguste Renoir"
+      ],
+      "answer": "피에르 오귀스트 르누아르",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-022",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.nationalgallery.org.uk/paintings/paul-cezanne-bathers-les-grandes-baigneuses"
+      ],
+      "searchTerms": [
+        "Paul Cezanne"
+      ],
+      "answer": "폴 세잔",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-023",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.nationalgallery.org.uk/paintings/thomas-gainsborough-mr-and-mrs-andrews"
+      ],
+      "searchTerms": [
+        "Thomas Gainsborough"
+      ],
+      "answer": "토머스 게인즈버러",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-024",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.nationalgallery.org.uk/paintings/raphael-the-madonna-of-the-pinks-la-madonna-dei-garofani"
+      ],
+      "searchTerms": [
+        "Raphael"
+      ],
+      "answer": "라파엘로",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-025",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=252&vcontsId=172556"
+      ],
+      "searchTerms": [
+        "gather in a circle"
+      ],
+      "answer": "원",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-026",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.korean-culture.org/ebook/access/ecatalogt.jsp?Dir=312&callmode=normal&catimage=&eclang=en&start=30&um=s"
+      ],
+      "searchTerms": [
+        "itinerant troupe"
+      ],
+      "answer": "유랑 예인 집단",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-027",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=252&vcontsId=172556"
+      ],
+      "searchTerms": [
+        "Buddhist ritual"
+      ],
+      "answer": "불교",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-028",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.korean-culture.org/ebook/access/ecatalogt.jsp?Dir=312&callmode=normal&catimage=&eclang=en&start=30&um=s"
+      ],
+      "searchTerms": [
+        "fve dancers"
+      ],
+      "answer": "5명",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-029",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=252&vcontsId=172556"
+      ],
+      "searchTerms": [
+        "three-line poetry (sijo)"
+      ],
+      "answer": "시조",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-030",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.korean-culture.org/ebook/access/ecatalogt.jsp?Dir=312&callmode=normal&catimage=&eclang=en&start=30&um=s"
+      ],
+      "searchTerms": [
+        "Wooden Architecture"
+      ],
+      "answer": "나무",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-031",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.korean-culture.org/ebook/access/ecatalogt.jsp?Dir=312&callmode=normal&catimage=&eclang=en&start=30&um=s"
+      ],
+      "searchTerms": [
+        "tightrope walker"
+      ],
+      "answer": "팽팽하게 매단 줄",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-032",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.korean-culture.org/ebook/access/ecatalogt.jsp?Dir=312&callmode=normal&catimage=&eclang=en&start=30&um=s"
+      ],
+      "searchTerms": [
+        "martial art"
+      ],
+      "answer": "무예",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-033",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.korean-culture.org/ebook/access/ecatalogt.jsp?Dir=312&callmode=normal&catimage=&eclang=en&start=30&um=s"
+      ],
+      "searchTerms": [
+        "ramie"
+      ],
+      "answer": "모시풀",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-034",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=252&vcontsId=172556"
+      ],
+      "searchTerms": [
+        "percussion and wind instruments"
+      ],
+      "answer": "타악기와 관악기",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-035",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=252&vcontsId=172556"
+      ],
+      "searchTerms": [
+        "muljil"
+      ],
+      "answer": "물질",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-036",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=252&vcontsId=172556"
+      ],
+      "searchTerms": [
+        "satba"
+      ],
+      "answer": "샅바",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-037",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.korean-culture.org/ebook/access/ecatalogt.jsp?Dir=312&callmode=normal&catimage=&eclang=en&start=30&um=s"
+      ],
+      "searchTerms": [
+        "5th day of the 5th lunar month"
+      ],
+      "answer": "5월 5일",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-038",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.korean-culture.org/ebook/access/ecatalogt.jsp?Dir=312&callmode=normal&catimage=&eclang=en&start=30&um=s"
+      ],
+      "searchTerms": [
+        "Falconry",
+        "falcons"
+      ],
+      "answer": "매사냥",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-039",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.korean-culture.org/ebook/access/ecatalogt.jsp?Dir=312&callmode=normal&catimage=&eclang=en&start=30&um=s"
+      ],
+      "searchTerms": [
+        "Jeju"
+      ],
+      "answer": "제주도",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-040",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=252&vcontsId=172556"
+      ],
+      "searchTerms": [
+        "Talchum",
+        "wearing a mask"
+      ],
+      "answer": "탈춤",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-041",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.rbo.org.uk/opera-essentials-marriage-of-figaro"
+      ],
+      "searchTerms": [
+        "music for"
+      ],
+      "answer": "볼프강 아마데우스 모차르트",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-042",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.rbo.org.uk/opera-essentials-marriage-of-figaro"
+      ],
+      "searchTerms": [
+        "libretto"
+      ],
+      "answer": "로렌초 다 폰테",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-043",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.rbo.org.uk/production/carmen-damiano-michieletto"
+      ],
+      "searchTerms": [
+        "Georges Bizet"
+      ],
+      "answer": "조르주 비제",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-044",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.rbo.org.uk/production/carmen-damiano-michieletto"
+      ],
+      "searchTerms": [
+        "setting of Seville"
+      ],
+      "answer": "세비야",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-045",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.rbo.org.uk/production/aida-robert-carsen"
+      ],
+      "searchTerms": [
+        "Giuseppe Verdi"
+      ],
+      "answer": "주세페 베르디",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-046",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.rbo.org.uk/production/aida-robert-carsen"
+      ],
+      "searchTerms": [
+        "Egypt"
+      ],
+      "answer": "이집트",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-047",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.rbo.org.uk/production/the-nutcracker-peter-wright"
+      ],
+      "searchTerms": [
+        "Tchaikovsky"
+      ],
+      "answer": "표트르 차이콥스키",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-048",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.rbo.org.uk/production/the-nutcracker-peter-wright"
+      ],
+      "searchTerms": [
+        "celesta"
+      ],
+      "answer": "첼레스타",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-049",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.coe.int/en/web/about-us/the-european-anthem"
+      ],
+      "searchTerms": [
+        "Beethoven"
+      ],
+      "answer": "루트비히 판 베토벤",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    },
+    {
+      "questionId": "art-050",
+      "result": "통과",
+      "sourceReopened": true,
+      "sourceUrls": [
+        "https://www.rbo.org.uk/opera-essentials-marriage-of-figaro"
+      ],
+      "searchTerms": [
+        "Composed in 1816",
+        "Rossini"
+      ],
+      "answer": "조아키노 로시니",
+      "checks": [
+        "질문·정답과 원문 대응",
+        "보기 4개와 정답 유일성",
+        "오답의 조건상 배제",
+        "조건과 해설 범위",
+        "변동성·중복·직접 답 노출",
+        "문장과 보기 표현"
+      ],
+      "limitation": "동일 AI의 별도 재검수이며 외부 독립 검수가 아님"
+    }
+  ]
+}

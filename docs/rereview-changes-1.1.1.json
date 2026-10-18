@@ -1,0 +1,327 @@
+{
+  "previousBankVersion": "1.1.0",
+  "bankVersion": "1.1.1",
+  "checkedAt": "2026-10-17",
+  "changes": [
+    {
+      "questionId": "art-011",
+      "field": "question",
+      "before": "회화 작품 「진주 귀걸이를 한 소녀」를 그린 화가는 누구인가?",
+      "after": "회화 작품 「진주 귀걸이를 한 소녀」의 작가는 누구인가?",
+      "reason": "작품명 뒤 조사 오류를 없애고 표현 통일"
+    },
+    {
+      "questionId": "art-011",
+      "field": "explanation",
+      "before": "「진주 귀걸이를 한 소녀」는 요하네스 페르메이르의 작품이다.",
+      "after": "작품 「진주 귀걸이를 한 소녀」의 작가는 요하네스 페르메이르이다.",
+      "reason": "작품명 뒤 조사 오류 수정"
+    },
+    {
+      "questionId": "art-012",
+      "field": "question",
+      "before": "영국 내셔널 갤러리 소장 회화 작품 「비너스와 마르스」를 그린 화가는 누구인가?",
+      "after": "영국 내셔널 갤러리 소장 회화 작품 「비너스와 마르스」의 작가는 누구인가?",
+      "reason": "작품명 뒤 조사 오류를 없애고 표현 통일"
+    },
+    {
+      "questionId": "art-012",
+      "field": "explanation",
+      "before": "「비너스와 마르스」는 산드로 보티첼리의 작품이다.",
+      "after": "작품 「비너스와 마르스」의 작가는 산드로 보티첼리이다.",
+      "reason": "작품명 뒤 조사 오류 수정"
+    },
+    {
+      "questionId": "art-013",
+      "field": "question",
+      "before": "회화 작품 「게르니카」를 그린 화가는 누구인가?",
+      "after": "회화 작품 「게르니카」의 작가는 누구인가?",
+      "reason": "작품명 뒤 조사 오류를 없애고 표현 통일"
+    },
+    {
+      "questionId": "art-013",
+      "field": "explanation",
+      "before": "「게르니카」는 파블로 피카소의 작품이다.",
+      "after": "작품 「게르니카」의 작가는 파블로 피카소이다.",
+      "reason": "작품명 뒤 조사 오류 수정"
+    },
+    {
+      "questionId": "art-014",
+      "field": "question",
+      "before": "영국 내셔널 갤러리 소장 회화 작품 「전함 테메레르」를 그린 화가는 누구인가?",
+      "after": "영국 내셔널 갤러리 소장 회화 작품 「전함 테메레르」의 작가는 누구인가?",
+      "reason": "작품명 뒤 조사 오류를 없애고 표현 통일"
+    },
+    {
+      "questionId": "art-014",
+      "field": "explanation",
+      "before": "「전함 테메레르」는 윌리엄 터너의 작품이다.",
+      "after": "작품 「전함 테메레르」의 작가는 윌리엄 터너이다.",
+      "reason": "작품명 뒤 조사 오류 수정"
+    },
+    {
+      "questionId": "art-015",
+      "field": "question",
+      "before": "영국 내셔널 갤러리 소장 회화 작품 「수련 연못(The Water-Lily Pond)」를 그린 화가는 누구인가?",
+      "after": "영국 내셔널 갤러리 소장 회화 작품 「수련 연못(The Water-Lily Pond)」의 작가는 누구인가?",
+      "reason": "작품명 뒤 조사 오류를 없애고 표현 통일"
+    },
+    {
+      "questionId": "art-015",
+      "field": "explanation",
+      "before": "「수련 연못(The Water-Lily Pond)」는 클로드 모네의 작품이다.",
+      "after": "작품 「수련 연못(The Water-Lily Pond)」의 작가는 클로드 모네이다.",
+      "reason": "작품명 뒤 조사 오류 수정"
+    },
+    {
+      "questionId": "art-016",
+      "field": "question",
+      "before": "영국 내셔널 갤러리 소장 회화 작품 「아르놀피니 부부의 초상」를 그린 화가는 누구인가?",
+      "after": "영국 내셔널 갤러리 소장 회화 작품 「아르놀피니 부부의 초상」의 작가는 누구인가?",
+      "reason": "작품명 뒤 조사 오류를 없애고 표현 통일"
+    },
+    {
+      "questionId": "art-016",
+      "field": "explanation",
+      "before": "「아르놀피니 부부의 초상」는 얀 반 에이크의 작품이다.",
+      "after": "작품 「아르놀피니 부부의 초상」의 작가는 얀 반 에이크이다.",
+      "reason": "작품명 뒤 조사 오류 수정"
+    },
+    {
+      "questionId": "art-017",
+      "field": "question",
+      "before": "영국 내셔널 갤러리 소장 회화 작품 「건초 마차(The Hay Wain)」를 그린 화가는 누구인가?",
+      "after": "영국 내셔널 갤러리 소장 회화 작품 「건초 마차(The Hay Wain)」의 작가는 누구인가?",
+      "reason": "작품명 뒤 조사 오류를 없애고 표현 통일"
+    },
+    {
+      "questionId": "art-017",
+      "field": "explanation",
+      "before": "「건초 마차(The Hay Wain)」는 존 컨스터블의 작품이다.",
+      "after": "작품 「건초 마차(The Hay Wain)」의 작가는 존 컨스터블이다.",
+      "reason": "작품명 뒤 조사 오류 수정"
+    },
+    {
+      "questionId": "art-018",
+      "field": "question",
+      "before": "영국 내셔널 갤러리 소장 회화 작품 「63세의 자화상(Self Portrait at the Age of 63)」를 그린 화가는 누구인가?",
+      "after": "영국 내셔널 갤러리 소장 회화 작품 「63세의 자화상(Self Portrait at the Age of 63)」의 작가는 누구인가?",
+      "reason": "작품명 뒤 조사 오류를 없애고 표현 통일"
+    },
+    {
+      "questionId": "art-018",
+      "field": "explanation",
+      "before": "「63세의 자화상(Self Portrait at the Age of 63)」는 렘브란트의 작품이다.",
+      "after": "작품 「63세의 자화상(Self Portrait at the Age of 63)」의 작가는 렘브란트이다.",
+      "reason": "작품명 뒤 조사 오류 수정"
+    },
+    {
+      "questionId": "art-019",
+      "field": "question",
+      "before": "영국 내셔널 갤러리 소장 회화 작품 「대사들(The Ambassadors)」를 그린 화가는 누구인가?",
+      "after": "영국 내셔널 갤러리 소장 회화 작품 「대사들(The Ambassadors)」의 작가는 누구인가?",
+      "reason": "작품명 뒤 조사 오류를 없애고 표현 통일"
+    },
+    {
+      "questionId": "art-019",
+      "field": "explanation",
+      "before": "「대사들(The Ambassadors)」는 한스 홀바인(아들)의 작품이다.",
+      "after": "작품 「대사들(The Ambassadors)」의 작가는 한스 홀바인(아들)이다.",
+      "reason": "작품명 뒤 조사 오류 수정"
+    },
+    {
+      "questionId": "art-020",
+      "field": "question",
+      "before": "영국 내셔널 갤러리 소장 회화 작품 「아니에르에서 물놀이하는 사람들」를 그린 화가는 누구인가?",
+      "after": "영국 내셔널 갤러리 소장 회화 작품 「아니에르에서 물놀이하는 사람들」의 작가는 누구인가?",
+      "reason": "작품명 뒤 조사 오류를 없애고 표현 통일"
+    },
+    {
+      "questionId": "art-020",
+      "field": "explanation",
+      "before": "「아니에르에서 물놀이하는 사람들」는 조르주 쇠라의 작품이다.",
+      "after": "작품 「아니에르에서 물놀이하는 사람들」의 작가는 조르주 쇠라이다.",
+      "reason": "작품명 뒤 조사 오류 수정"
+    },
+    {
+      "questionId": "art-021",
+      "field": "question",
+      "before": "영국 내셔널 갤러리 소장 회화 작품 「우산들(The Umbrellas)」를 그린 화가는 누구인가?",
+      "after": "영국 내셔널 갤러리 소장 회화 작품 「우산들(The Umbrellas)」의 작가는 누구인가?",
+      "reason": "작품명 뒤 조사 오류를 없애고 표현 통일"
+    },
+    {
+      "questionId": "art-021",
+      "field": "explanation",
+      "before": "「우산들(The Umbrellas)」는 피에르 오귀스트 르누아르의 작품이다.",
+      "after": "작품 「우산들(The Umbrellas)」의 작가는 피에르 오귀스트 르누아르이다.",
+      "reason": "작품명 뒤 조사 오류 수정"
+    },
+    {
+      "questionId": "art-022",
+      "field": "question",
+      "before": "영국 내셔널 갤러리 소장 회화 작품 「대수욕도(Bathers, Les Grandes Baigneuses)」를 그린 화가는 누구인가?",
+      "after": "영국 내셔널 갤러리 소장 회화 작품 「대수욕도(Bathers, Les Grandes Baigneuses)」의 작가는 누구인가?",
+      "reason": "작품명 뒤 조사 오류를 없애고 표현 통일"
+    },
+    {
+      "questionId": "art-022",
+      "field": "explanation",
+      "before": "「대수욕도(Bathers, Les Grandes Baigneuses)」는 폴 세잔의 작품이다.",
+      "after": "작품 「대수욕도(Bathers, Les Grandes Baigneuses)」의 작가는 폴 세잔이다.",
+      "reason": "작품명 뒤 조사 오류 수정"
+    },
+    {
+      "questionId": "art-023",
+      "field": "question",
+      "before": "영국 내셔널 갤러리 소장 회화 작품 「앤드루스 부부」를 그린 화가는 누구인가?",
+      "after": "영국 내셔널 갤러리 소장 회화 작품 「앤드루스 부부」의 작가는 누구인가?",
+      "reason": "작품명 뒤 조사 오류를 없애고 표현 통일"
+    },
+    {
+      "questionId": "art-023",
+      "field": "explanation",
+      "before": "「앤드루스 부부」는 토머스 게인즈버러의 작품이다.",
+      "after": "작품 「앤드루스 부부」의 작가는 토머스 게인즈버러이다.",
+      "reason": "작품명 뒤 조사 오류 수정"
+    },
+    {
+      "questionId": "art-024",
+      "field": "question",
+      "before": "영국 내셔널 갤러리 소장 회화 작품 「카네이션의 성모(The Madonna of the Pinks)」를 그린 화가는 누구인가?",
+      "after": "영국 내셔널 갤러리 소장 회화 작품 「카네이션의 성모(The Madonna of the Pinks)」의 작가는 누구인가?",
+      "reason": "작품명 뒤 조사 오류를 없애고 표현 통일"
+    },
+    {
+      "questionId": "art-024",
+      "field": "explanation",
+      "before": "「카네이션의 성모(The Madonna of the Pinks)」는 라파엘로의 작품이다.",
+      "after": "작품 「카네이션의 성모(The Madonna of the Pinks)」의 작가는 라파엘로이다.",
+      "reason": "작품명 뒤 조사 오류 수정"
+    },
+    {
+      "questionId": "hist-023",
+      "field": "question",
+      "before": "신라에서 청해진을 설치한 인물은 누구인가?",
+      "after": "신라 흥덕왕의 허락을 받아 청해진을 설치한 인물은 누구인가?",
+      "reason": "왕의 승인과 장보고의 설치 활동을 구분해 조건 명시"
+    },
+    {
+      "questionId": "hist-031",
+      "field": "question",
+      "before": "대한제국의 황제 즉위식이 거행된 제단은 어디인가?",
+      "after": "대한제국 수립 당시 황제 즉위식이 거행된 제단은 어디인가?",
+      "reason": "대한제국의 모든 황제 즉위식을 일반화하지 않도록 수립 당시로 한정"
+    },
+    {
+      "questionId": "hist-048",
+      "field": "question",
+      "before": "아우내 장터 만세 운동에 참여한 여성 독립운동가는 누구인가?",
+      "after": "이화학당 학생으로 아우내 장터 만세 운동에 참여한 인물은 누구인가?",
+      "reason": "참여자 전체가 아닌 원문에 확인되는 인물의 조건 명시"
+    },
+    {
+      "questionId": "art-050",
+      "field": "explanation",
+      "before": "세비야의 이발사는 로시니가 작곡했다.",
+      "after": "1816년에 작곡된 오페라 『세비야의 이발사』의 작곡가는 로시니이다.",
+      "reason": "동명 오페라가 있어 질문의 연도 조건을 해설에도 유지"
+    },
+    {
+      "questionId": "art-038",
+      "field": "question",
+      "before": "전통 매사냥에서는 어떤 동물을 훈련해 사냥에 이용하는가?",
+      "after": "훈련한 매를 풀어 먹잇감을 잡게 하는 전통 사냥 방식은 무엇인가?",
+      "reason": "질문에 정답인 매가 그대로 포함된 단순 확인 문제를 전통 명칭을 묻는 문제로 재구성"
+    },
+    {
+      "questionId": "art-038",
+      "field": "options",
+      "before": [
+        {
+          "id": "art-038-a",
+          "text": "낙타"
+        },
+        {
+          "id": "art-038-b",
+          "text": "사슴"
+        },
+        {
+          "id": "art-038-c",
+          "text": "매"
+        },
+        {
+          "id": "art-038-d",
+          "text": "말"
+        }
+      ],
+      "after": [
+        {
+          "id": "art-038-a",
+          "text": "활쏘기"
+        },
+        {
+          "id": "art-038-b",
+          "text": "낚시"
+        },
+        {
+          "id": "art-038-c",
+          "text": "매사냥"
+        },
+        {
+          "id": "art-038-d",
+          "text": "덫사냥"
+        }
+      ],
+      "reason": "질문에 정답인 매가 그대로 포함된 단순 확인 문제를 전통 명칭을 묻는 문제로 재구성"
+    },
+    {
+      "questionId": "art-040",
+      "field": "question",
+      "before": "탈춤에서 춤과 연기를 할 때 얼굴에 쓰는 것은 무엇인가?",
+      "after": "가면을 쓰고 춤·노래·연기를 결합해 펼치는 한국의 전통 공연은 무엇인가?",
+      "reason": "질문에 정답인 탈이 그대로 포함된 문제를 공연 장르의 정의로 재구성"
+    },
+    {
+      "questionId": "art-040",
+      "field": "options",
+      "before": [
+        {
+          "id": "art-040-a",
+          "text": "탈"
+        },
+        {
+          "id": "art-040-b",
+          "text": "갓"
+        },
+        {
+          "id": "art-040-c",
+          "text": "족두리"
+        },
+        {
+          "id": "art-040-d",
+          "text": "화관"
+        }
+      ],
+      "after": [
+        {
+          "id": "art-040-a",
+          "text": "탈춤"
+        },
+        {
+          "id": "art-040-b",
+          "text": "판소리"
+        },
+        {
+          "id": "art-040-c",
+          "text": "국악 가곡"
+        },
+        {
+          "id": "art-040-d",
+          "text": "택견"
+        }
+      ],
+      "reason": "질문에 정답인 탈이 그대로 포함된 문제를 공연 장르의 정의로 재구성"
+    }
+  ]
+}

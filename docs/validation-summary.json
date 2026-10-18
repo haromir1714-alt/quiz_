@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-18",
+  "environment": {
+    "os": "Linux",
+    "node": "24.19.0",
+    "vitest": "5.0.5",
+    "jsdom": "30.1.3"
+  },
+  "automatedTests": 45,
+  "automatedTestResult": "passed",
+  "typeCheck": "passed",
+  "build": "passed",
+  "contentStructureCheck": "passed",
+  "realBrowserTest": "not_run",
+  "windowsRun": "not_run",
+  "mobileVisualTest": "not_run",
+  "remoteGitPush": "not_run",
+  "publicDeployment": "not_run",
+  "bankVersion": "1.1.2",
+  "questionCount": 200,
+  "eligibleCounts": {
+    "한국사": 50,
+    "과학": 50,
+    "지리": 50,
+    "예술과 문화": 50
+  },
+  "logicTests": 35,
+  "domFlowTests": 10,
+  "optionOrderGradingCases": 19200,
+  "buildWarning": "500kB 초과 청크 권고 경고; gzip 약 128kB, 빌드 성공",
+  "latestContentAuditSourceURLs": 130,
+  "latestContentAuditQuestions": 200,
+  "editedQuestionsInLatestAudit": 20,
+  "htmlDocumentQuestionsMatchedToJson": 200,
+  "htmlDocumentContentMatch": "passed",
+  "htmlVisualBrowserTest": "not_run",
+  "expansionSourcesReopened": 88,
+  "latestFullContentAuditDate": "2026-10-17",
+  "latestAmendmentSourcesReopened": 3,
+  "latestAmendmentQuestionTextChanges": 2,
+  "latestAmendmentSourceGuidanceChanges": 1
+}
